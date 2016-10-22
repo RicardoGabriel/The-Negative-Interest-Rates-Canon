@@ -1,10 +1,20 @@
-<b id="b1">[Consumers](#b11)</b> 
+##Index:
 
-## What is an Interest Rate?
+<b id="i1">[What is an interest rate?](#b1)</b>
 
-Before explaining in more detail how negative interest rates work, one must understand what an interest rate is. In economic terms, interest is what a borrower pays to a lender for the use of an <sup id="a1">[asset](#f1)</sup>  on top of the value of the same asset. In the case of borrowing money (example of asset), the borrower would have an obligation to pay back the amount he asked for, plus some pre-defined value (agreed between the lender and the borrower) that could be a percentage of the amount lent (interest rate), over an agreed period of time.
+<b id="i2">[How do interest rates relate to a *simplified* financial system?](#b2)</b>
 
-It is also important to distinguish nominal interest rates from real interest rates. The main difference between them is that the real interest rate takes into account <sup id="a2">[inflation](#f2)</sup> - which means that with the same amount of money the lender would be able to buy fewer goods than before, at the lending date. In other words, the real interest rate is what we, consumers, really experience in our daily life.
+* <b id="i">[](#b)</b>
+
+* <b id="i">[](#b)</b> 
+
+* <b id="b1">[Consumers](#b11)</b> 
+
+## What is an <b id="b1">interest rate</b>? [↩] (#i1)
+
+Before explaining in more detail how negative interest rates work, one must understand what an interest rate is. In economic terms, interest is what a borrower pays to a lender for the use of an <b id="a1">[asset](#f1)</b>  on top of the value of the same asset. In the case of borrowing money (example of asset), the borrower would have an obligation to pay back the amount he asked for, plus some pre-defined value (agreed between the lender and the borrower) that could be a percentage of the amount lent (interest rate), over an agreed period of time.
+
+It is also important to distinguish nominal interest rates from real interest rates. The main difference between them is that the real interest rate takes into account <b id="a2">[inflation](#f2)</b> - which means that with the same amount of money the lender would be able to buy fewer goods than before, at the lending date. In other words, the real interest rate is what we, consumers, really experience in our daily life.
 
 For example, if you borrow 100€ one year ago at a nominal interest rate of 10% per year, you will pay back to the lender 110€ which is the sum of the amount you asked (100€) and the interest paid on it (100x10%=10€).
 
@@ -12,10 +22,9 @@ However, if you borrowed 100€ one year ago at a nominal interest rate of 10% p
 
 Now, picture that same upside-down World, where instead of paying interest you are actually receiving its value! Assuming  a nominal negative interest rate of (-10%), and no inflation, instead of paying back 110€ you would only pay back 90€. Sounds crazy right? 
 
-#### How would this happen? Why would this happen? What consequences there would be? That is what we expect you to learn by reading this Canon!
+#### <b id="b2"> How would this happen? Why would this happen? What consequences there would be? That is what we expect you to learn by reading this Canon! </b> [↩] (#i2)
 
-
-First, we need to understand how does a simplified financial environment within a country or region work and that it is mainly composed of three agents: a Central Bank, Commercial Banks and Consumers.
+First, we need to understand how does a simplified financial environment within a country (or region) work and that it is mainly composed of three agents: a <b id="a3">[Central Bank](#f3)</b>, <b id="a4">[Commercial Banks](#f4)</b>, you and other consumers.
 
 <div style="text-align:center"><img src="https://github.com/RicardoGabriel/first-repo/blob/master/Image1.png" width="1000"></div>
 
@@ -58,7 +67,7 @@ Hence, when setting negative interest rates, central banks aim to improve econom
 
 ## What are the consequences/implications/risks/limits?
 
-* <b id="b11">Consumers</b> [↩] (#b1):
+* <b id="b">Consumers</b> [↩] (#b1):
 
 (Consequent to the negative interest rate, there is no incentive for consumers to save. Borrowing is more attractive, leading to a spurt in spending, thereby facilitating an economic recovery.)
 
