@@ -1,8 +1,8 @@
 # Starting Point:
 
-## What is an <sup id="a1">[Interest Rate](#myfootnote1)</sup> ?
+## What is an Interest Rate?
 
-Before explaining in more detail how negative interest rates work, one must understand what an interest rate is. In economic terms, interest is what a borrower pays to a lender for the use of an asset on top of the value of the same asset. In the case of borrowing money (asset), the borrower would have an obligation to pay back the amount he asked for, plus some pre-defined value (agreed between the lender and the borrower) that could be a percentage of the amount lent (interest rate), over an agreed period of time.
+Before explaining in more detail how negative interest rates work, one must understand what an interest rate is. In economic terms, interest is what a borrower pays to a lender for the use of an <sup id="a1">[asset](#myfootnote1)</sup>  on top of the value of the same asset. In the case of borrowing money (asset), the borrower would have an obligation to pay back the amount he asked for, plus some pre-defined value (agreed between the lender and the borrower) that could be a percentage of the amount lent (interest rate), over an agreed period of time.
 
 It is also important to distinguish nominal interest rates from real interest rates. The main difference between them is that the real interest rate takes into account inflation effect - which means that with the same amount of money the lender would be able to buy fewer goods than before, at the lending date. In other words, the real interest rate is what we, consumers, really experience in our daily life.
 
@@ -136,7 +136,7 @@ http://www.investopedia.com/articles/investing/082113/understanding-interest-rat
 
 ### Concepts
 
-<b id="myfootnote1">Interest Rate</b>: is this. [↩](#a1)
+<b id="myfootnote1">Asset</b>: An asset can be defined as a resource that has an economic value attached to it. These can be bought or created to increase the value of a firm or an individual(#)[http://www.accountingtools.com/definition-asset].  [↩](#a1)
 
 
 ### Authors and Contributors
