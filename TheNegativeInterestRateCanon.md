@@ -32,7 +32,7 @@ It is also important to distinguish nominal interest rates from real interest ra
 
 For example, if you borrow 100€ one year ago at a nominal interest rate of 10% per year, you will pay back to the lender 110€ which is the sum of the amount you asked (100€) and the interest paid on it (100x10%=10€).
 
-However, if you borrowed 100€ one year ago at a nominal interest rate of 10% per year and you know that the inflation felt this last year was 5%, what you will really pay back today is 105€. This value comes from the sum of the amount you asked (100€) and the interest paid on it (100x10%=10€) minus the inflation effect which is given by (100x5%=5€).
+However, if you borrowed 100€ one year ago at a nominal interest rate of 10% per year and you know that the inflation felt this last year was 5%, what you will *really* pay back today is 105€. This value comes from the sum of the amount you asked (100€) and the interest paid on it (100x10%=10€) minus the inflation effect which is given by (100x5%=5€).
 
 Now, picture that same upside-down World, where instead of paying interest you are actually receiving its value! Assuming  a nominal negative interest rate of (-10%), and no inflation, instead of paying back 110€ you would only pay back 90€. Sounds crazy right? 
 
@@ -42,9 +42,9 @@ First, we need to understand how does a simplified financial environment within 
 
 <div style="text-align:center"><img src="https://github.com/RicardoGabriel/first-repo/blob/master/Image1.png" width="1000"></div>
 
-Most central banks demand that commercial banks maintain a minimum level of reserves (required reserves) to preserve liquidity and solvency against any unexpected event, such as bank runs. Commercial banks hold a portion of their reserves at the central bank, who pays interest on those required reserves and/or on excess reserves, above the required minimum [Relation 1.a]
+Most central banks demand that commercial banks maintain a minimum level of <b id="a5">[reserves](#f5)</b> (so called required reserves) to preserve <b id="a6">[liquidity](#f6)</b> and <b id="a7">[solvency](#f7)</b> against any unexpected event, such as bank runs. Commercial banks hold a portion of their reserves at the central bank, who pays interest on those required reserves and/or on excess reserves, those above the required minimum, at the *official deposit rate*. [Relation 1.a]
 
-However there may be some commercial banks that need help meeting their reserve requirement and, as a last resort, they may borrow from the central bank at the official lending rate [Relation 1.b]
+However there may be some commercial banks that need help meeting their reserve requirement and, as a last resort, they may borrow from the central bank at the *official lending rate* [Relation 1.b]
 
 To meet reserve requirements, commercial banks can also borrow from one another at interbank market overnight rate [Relation 2]. Which is always higher than the rate on the deposits at the central bank (such they can make a profit) and lower than central bank’s lending rate (such it is still preferred …).
 
@@ -81,7 +81,7 @@ Hence, when setting negative interest rates, central banks aim to improve econom
 
 ## <b id="b4">What are the consequences of the use of negative interest rates for: </b> [↩] (#i4)
 
-* <b id="b5">Consumers:</b> [↩] (#i5)
+* <b id="b5">**Consumers:**</b> [↩] (#i5)
 
 (Consequent to the negative interest rate, there is no incentive for consumers to save. Borrowing is more attractive, leading to a spurt in spending, thereby facilitating an economic recovery.)
 
@@ -95,7 +95,7 @@ However, there may be certain risks associated with negative interest rates for 
 
 If follows that there are certain limitations to negative interest rates. While it is used as a tool to encourage consumption and investment, it would cause problems for people who save money in banks, especially those who save for retirement. If all of a sudden, the retirement savings account stops paying interest and the effect reverses, savers will end up receiving less money that they expect to receive after retirement.
 
-* <b id="b6">Banks and other financial lenders:</b> [↩] (#i6)
+* <b id="b6">**Banks and other financial lenders:**</b> [↩] (#i6)
 
 In the Eurozone, Denmark, Sweden, Switzerland and Japan, central banks have placed a negative rate on commercial banks excess funds that are held as a deposit at the central bank, in other words, the commercial banks have to pay to place their money there. In such a case, it is better to look for positive returns at other places.
 
@@ -111,7 +111,7 @@ For other financial lenders, it can be tricky. When there are negative interest 
 
 Many implications for commercial banks are similar to that of the consumers but in a different light. Households, consumers, the financial market and the economy are highly interconnected. One of the main functions of the financial market is to transfer funds from the households and savers to the borrowers, may it be other households, other banks or even the government. Any implications of negative interest rates affect all players involved.
 
-* <b id="b7">Central Banks:</b> [↩] (#i7)
+* <b id="b7">**Central Banks:**</b> [↩] (#i7)
 
 Central Banks are using this ‘negative interest rate’ policy as an attempt to stimulate the economy when conventional monetary policy seizes to work due to zero bounded interest rates and the economy being in a liquidity trap. Since the global financial crisis, the central are using low-interest rate policies to accommodate low investments, low output, and low inflation. The European Central Bank has placed the deposit rate below zero and the main refinancing rate at zero in response to the persistent recession. There is a limitation to negative interest rate policies, as people would rather hold cash at zero interest rate or look for other assets with positive returns.
 
@@ -119,17 +119,30 @@ The Central Banks need to be mindful of the risks involved for consumers, banks 
 
 ## <b id="b8">Japan and EU case-studies </b> [↩] (#i8)
 
-Since Japanese asset price bubble collapse in the early 1990s, Japan has been suffered from economic recession for a decade. It took 12 years for Japan's GDP to recover to the same level as 1995. This is commonly known as the “lost decade” of Japan. Until 2016, the country still experienced weak economic growth, stagnant price level, real wages fell and the demographic issue of shrinking population.
+Since Japanese asset bubble collapse in the early 1990s, **Japan** has been in an economic recession. It took 12 years for Japan's GDP to recover to the same level as 1995. This is commonly known as the [lost decade] (http://www.economist.com/blogs/freeexchange/2012/08/lost-decades) of Japan. Even in the current year of 2016, the country still experiences weak economic growth, stagnated price level and real wages.
 
-Bank of Japan (BOJ) was trying to stimulate country’s economy with the zero interest rate and quantitative easing programs, to inject a huge amount of money to financial system with the bond-buying program. However, the result seems to work only for a short period and now the BOJ need something new.
+Bank of Japan (BOJ) first tried to stimulate country’s economy with a zero interest rate and quantitative easing programs, to inject huge amounts of money in the financial system. However, the result seemed to work only for a short period of time. For this reason, in early 2016, the BOJ decided to adopt a negative interest rate policy, with the expectation to achieve a 2% inflation rate. The BOJ has not only cut interest rate on some deposits that banks place at the central bank to minus 0.1%, as it still maintains the quantitative easing program. In addition, Japan government also asked for Japanese corporates to raise full-time and part-time employees’ salary to increase household spending.[#] (http://www.japantimes.co.jp/news/2016/06/06/national/stimulus-efforts-struggle-abe-pushes-equal-pay-lift-japans-economy/#.WAnzEvmrhBc)
 
-After experimenting many policies, in early 2016, the BOJ finally decided to adopt the negative interest rate policy, like what happens in Denmark, Sweden and Switzerland and the European Central Bank (ECB) before. The expectation is to achieve 2% target inflation. The BOJ has cut interest rates to minus 0.1%. The purpose is to reduce the cost of borrowing for companies and households with a rate below zero and encourage banks to lend more as the cost of holding money increased and also aim for more investments from the private sector. Together with this new approach, BOJ still maintains the quantitative easing policy government bond purchases. In addition, Japan’s Prime Minister, Shinzo Abe, also asked for Japanese corporates to raise employees’ salary and bonus to increase household spending.
+Some critics say that this policy might not be able to boost Japan’s economy due to the long term deflation and that the BOJ may be running out of monetary policy tools [#] (http://www.bloomberg.com/news/articles/2016-04-06/japan-is-fast-approaching-the-quantitative-limits-of-quantitative-easing) However, until now, there is no clear proof or evidence about the consequences of negative rates policy. The BOJ has said that there is no boundary and rates can be cut further as needed. Change in policy to welcome more immigration to boost workforce has been discussed for possibility as well. [#] (http://www.japantimes.co.jp/news/2016/01/06/national/social-issues/government-weighs-immigration-maintain-population-boost-workforce/#.WAn1y_mrhBc)
 
-However, some critics say that this policy might not be able to boost Japan economy. If the rate is below zero, people may take their saving out of their bank account and keep it the safe and that will not help to boost spending as the BOJ expected. With the long-term deflation, for example, people have no incentive to spend money on a new car or other durable goods as they know that it will be cheaper next year. They’re like to postpone the spending plan and this will lead to the low consumption.
 
-Until now, there is no certain proof or evidence that the consequence of negative rates policy. What’s interesting is that what will be the next move of the BOJ if the situation still not improved. The BOJ has said that there is no boundary and rates can be cut further as needed. Furthermore, some analysts even said in the near future we may see the most unexpected policy like “helicopter money policy”, injecting money directly to the people or change in policy to welcome more immigration to boost workforce.
+Currently the **EU economy** is still weak due to low inflation and low GDP growth. As a result of European debt crisis occurred some countries still not fully recovered. 
+With the single monetary policy from the ECB  it prevents individual Eurozone member countries from independently monetary policy decision. Therefore, each country cannot print Euros themselves to pay creditors and eliminate default risk. Also, they cannot devalue their currency to boost export sector which will lead to increased GDP. 
+(https://en.wikipedia.org/wiki/European_debt_crisis)
 
-## <b id="b9">Alternatives</b> [↩] (#i9)
+The ECB cut bank rates in several steps during 2012–2013 as they target to boost the Eurozone economy from low inflation and to stimulate growth. However, the Eurozone economy still weak. In June 2014 the ECB became the world’s first major central bank that decided to launch negative interest rates policy, cut rate to minus 0.1%. 
+(http://www.investopedia.com/articles/investing/040215/understanding-negative-rates-europes-central-banks.asp)
+
+The reason behind the ECB’s decision is quite similar as Japan. Both of Japan and EU are mature economy and they have fewer investment opportunities. They are also have similar demographic problem, working age population is diminishing. Therefore, they want to boost inflation and spending with negative rates policy. 
+(http://business.financialpost.com/news/economy/japan-in-transition-rest-of-world-watches-as-country-tries-negative-interest-rates-to-spur-economy)
+
+At the same time, the ECB also launched an asset purchase program covering many kind of investment grade securities. These various extreme policies are implemented to ensure that sufficient stimulus is provided to the economy to meet the ECB’s inflation target.
+
+It is difficult to say how long exactly these low interest rates will continue, but it’s expected that rates will be low for years. Current rate is minus 0.4 and what will happens next is still unknown.  
+(https://www.ecb.europa.eu/press/key/date/2016/html/sp160728.en.html)
+
+
+## <b id="b9">Are there any alternatives?</b> [↩] (#i9)
 
 Given all the limitations of negative interest rates, one may ask himself if there are alternatives to their use. Well, economies can not only be stimulated by monetary policy, but also by fiscal policy. Governments have their own revenue, generated from taxes paid by households and firms, and also spend a lot of money, on transfers and subsidies for example. 
 
@@ -143,16 +156,23 @@ Helicopter money can also be interpreted as tax cuts financed by monetary policy
 
 ## <b id="b10">Concepts</b> [↩] (#i10)
 
-<b id="f1">Asset</b>: can be defined as a resource that has an economic value attached to it. These can be bought or created to increase the value of a firm or an individual. [Learn More] (http://www.accountingtools.com/definition-asset)  [↩](#a1)
+<b id="f1">**Asset:**</b> can be defined as a resource that has an economic value attached to it. These can be bought or created to increase the value of a firm or an individual. [Learn More] (http://www.accountingtools.com/definition-asset)  [↩](#a1)
 
-<b id="f2">Inflation</b>: refers to the rise in general price levels. Thus an individual will have to pay more for goods and services. [Learn More] (http://www.investopedia.com/terms/i/inflation.asp) [↩](#a2)
+<b id="f2">**Inflation:**</b> refers to the rise in general price levels. Thus an individual will have to pay more for goods and services. [Learn More] (http://www.investopedia.com/terms/i/inflation.asp) [↩](#a2)
 
-<b id="f3">Central Bank</b>: independent national/supranational authority that conducts monetary policy, regulates banks, and provides financial services including economic research. Its main goal is to keep stability in price levels. [Learn More] (https://www.thebalance.com/what-is-a-central-bank-definition-function-and-role-3305827) [↩](#a3)
+<b id="f3">**Central Bank:**</b> independent national/supranational authority that conducts monetary policy, regulates banks, and provides financial services including economic research. Its main goal is to keep stability in price levels. [Learn More] (https://www.thebalance.com/what-is-a-central-bank-definition-function-and-role-3305827) [↩](#a3)
 
-<b id="f4">Commercial Banks</b>: institutions that offer products and services to firms and individuals. The most relevant tasks are the acceptance of deposits and the issuing of loans. [Learn More] (http://study.com/academy/lesson/what-are-commercial-banks-definition-roles-functions.html) [↩](#a4)
+<b id="f4">**Commercial Banks:**</b> institutions that offer products and services to firms and individuals. The most relevant tasks are the acceptance of deposits and the issuing of loans. [Learn More] (http://study.com/academy/lesson/what-are-commercial-banks-definition-roles-functions.html) [↩](#a4)
+
+<b id="f5">**Reserves:**</b> currency deposits which are not lent out and usually saved in Central Banks. [Learn More] (http://www.investopedia.com/terms/b/bank-reserve.asp) [↩](#a5)
+
+<b id="f6">**Liquidity:**</b> measures how quickly an asset can be bought or sold (traded) in the market . For instance, cash is the most liquid asset available because it can always be easily and immediately used. [Learn More] (http://www.investopedia.com/articles/basics/07/liquidity.asp) [↩](#a6)
+
+<b id="f7">**Solvency:**</b> degree of how much the assets of an entity/bank exceed its liability. An entity which has more liabilities than assets is considered insolvent and is likely to enter in a bankruptcy. [Learn More] (http://www.accountingcoach.com/blog/what-is-solvency) [↩](#a7)
 
 
 
 ### <b id="b11">Authors and Contributors</b> [↩] (#i11)
 @anasofiapessoa
+
 @RicardoGabriel
