@@ -4,13 +4,27 @@
 
 <b id="i2">[How do interest rates relate to a *simplified* financial system?](#b2)</b>
 
-* <b id="i">[](#b)</b>
+<b id="i3">[What are the desired consequences for a policymaker who sets interest rates negative?](#b3)</b>
 
-* <b id="i">[](#b)</b> 
+<b id="i4">[What are the consequences of the use of negative interest rates?](#b4)</b> 
 
-* <b id="b1">[Consumers](#b11)</b> 
+* <b id="i5">[Consumers](#b5)</b> 
 
-## What is an <b id="b1">interest rate</b>? [↩] (#i1)
+* <b id="i6">[Banks and other financial lenders](#b6)</b> 
+
+* <b id="i7">[Central Banks](#b7)</b> 
+
+<b id="i8">[Japan and EU case-studies](#b8)</b> 
+
+<b id="i9">[Are there any alternatives?](#b9)</b> 
+
+<b id="i10">[Concepts](#b10)</b> 
+
+<b id="i11">[Authors and Contributors](#b11)</b> 
+
+
+
+## <b id="b1"> What is an interest rate?</b> [↩] (#i1)
 
 Before explaining in more detail how negative interest rates work, one must understand what an interest rate is. In economic terms, interest is what a borrower pays to a lender for the use of an <b id="a1">[asset](#f1)</b>  on top of the value of the same asset. In the case of borrowing money (example of asset), the borrower would have an obligation to pay back the amount he asked for, plus some pre-defined value (agreed between the lender and the borrower) that could be a percentage of the amount lent (interest rate), over an agreed period of time.
 
@@ -49,7 +63,7 @@ A central bank influences the interest rates with monetary policies. Before the 
 
 On the other hand, the interest rates can also be influenced with quantitative easing, experimenting started after the crisis. Central banks create money by buying securities from banks. The central banks buy assets, for example, government bonds, from banks by ‘printing’ new cash. The size of bank reserves expands due to the purchase of a quantity of assets: quantitative easing. By creating and pushing more money into the economy, the stock prices will rise and will decrease the interest rates. An important point to notice is that the central bank can influence the consumer confidence. If the CB convinces the market that they are serious about the QE to fight unemployment or deflation, then it can boost economic activity by raising confidence. 
 
-## What are the desired consequences? What do they want to achieve?
+## <b id="b3">What are the desired consequences for a policymaker who sets interest rates negative?</b> [↩] (#i3)
 
 Negative interest rates are used for many reasons. For instance, in periods of deflation, consumer spending and investment tend to be lower, slowing down the aggregate demand and production and increasing unemployment. To deal with such problems, central banks usually use expansionary monetary policies. However, it might be the case that the deflation felt is so strong that simply keeping central bank’s interest rate at the zero lower bound is not enough to boost the economy.
 
@@ -65,9 +79,9 @@ Another relevant consequence of negative interest rates is the weaker currency. 
 
 Hence, when setting negative interest rates, central banks aim to improve economic growth, increase inflation and decrease unemployment, through implicit lower borrowing costs for banks and consumers and a weaker currency.
 
-## What are the consequences/implications/risks/limits?
+## <b id="b4">What are the consequences of the use of negative interest rates for: </b> [↩] (#i4)
 
-* <b id="b">Consumers</b> [↩] (#b1):
+* <b id="b5">Consumers:</b> [↩] (#i5)
 
 (Consequent to the negative interest rate, there is no incentive for consumers to save. Borrowing is more attractive, leading to a spurt in spending, thereby facilitating an economic recovery.)
 
@@ -81,7 +95,7 @@ However, there may be certain risks associated with negative interest rates for 
 
 If follows that there are certain limitations to negative interest rates. While it is used as a tool to encourage consumption and investment, it would cause problems for people who save money in banks, especially those who save for retirement. If all of a sudden, the retirement savings account stops paying interest and the effect reverses, savers will end up receiving less money that they expect to receive after retirement.
 
-* Banks and other financial lenders:
+* <b id="b6">Banks and other financial lenders:</b> [↩] (#i6)
 
 In the Eurozone, Denmark, Sweden, Switzerland and Japan, central banks have placed a negative rate on commercial banks excess funds that are held as a deposit at the central bank, in other words, the commercial banks have to pay to place their money there. In such a case, it is better to look for positive returns at other places.
 
@@ -97,13 +111,13 @@ For other financial lenders, it can be tricky. When there are negative interest 
 
 Many implications for commercial banks are similar to that of the consumers but in a different light. Households, consumers, the financial market and the economy are highly interconnected. One of the main functions of the financial market is to transfer funds from the households and savers to the borrowers, may it be other households, other banks or even the government. Any implications of negative interest rates affect all players involved.
 
-* Central Banks
+* <b id="b7">Central Banks:</b> [↩] (#i7)
 
 Central Banks are using this ‘negative interest rate’ policy as an attempt to stimulate the economy when conventional monetary policy seizes to work due to zero bounded interest rates and the economy being in a liquidity trap. Since the global financial crisis, the central are using low-interest rate policies to accommodate low investments, low output, and low inflation. The European Central Bank has placed the deposit rate below zero and the main refinancing rate at zero in response to the persistent recession. There is a limitation to negative interest rate policies, as people would rather hold cash at zero interest rate or look for other assets with positive returns.
 
 The Central Banks need to be mindful of the risks involved for consumers, banks and other financial intermediaries and how these risks and their subsequent behavior can affect the stability of the financial market. The Central Bank needs to keep in mind that these players do not always act rationally when conducting monetary policy and also be aware of other potential channels in which monetary policy can affect the macroeconomy through said players.
 
-## Japan
+## <b id="b8">Japan and EU case-studies </b> [↩] (#i8)
 
 Since Japanese asset price bubble collapse in the early 1990s, Japan has been suffered from economic recession for a decade. It took 12 years for Japan's GDP to recover to the same level as 1995. This is commonly known as the “lost decade” of Japan. Until 2016, the country still experienced weak economic growth, stagnant price level, real wages fell and the demographic issue of shrinking population.
 
@@ -115,7 +129,7 @@ However, some critics say that this policy might not be able to boost Japan econ
 
 Until now, there is no certain proof or evidence that the consequence of negative rates policy. What’s interesting is that what will be the next move of the BOJ if the situation still not improved. The BOJ has said that there is no boundary and rates can be cut further as needed. Furthermore, some analysts even said in the near future we may see the most unexpected policy like “helicopter money policy”, injecting money directly to the people or change in policy to welcome more immigration to boost workforce.
 
-## Alternatives
+## <b id="b9">Alternatives</b> [↩] (#i9)
 
 Given all the limitations of negative interest rates, one may ask himself if there are alternatives to their use. Well, economies can not only be stimulated by monetary policy, but also by fiscal policy. Governments have their own revenue, generated from taxes paid by households and firms, and also spend a lot of money, on transfers and subsidies for example. 
 
@@ -127,7 +141,7 @@ Helicopter money can also be interpreted as tax cuts financed by monetary policy
 ## Conclusion (?)
 
 
-## Concepts
+## <b id="b10">Concepts</b> [↩] (#i10)
 
 <b id="f1">Asset</b>: can be defined as a resource that has an economic value attached to it. These can be bought or created to increase the value of a firm or an individual. [Learn More] (http://www.accountingtools.com/definition-asset)  [↩](#a1)
 
@@ -139,6 +153,6 @@ Helicopter money can also be interpreted as tax cuts financed by monetary policy
 
 
 
-### Authors and Contributors
+### <b id="b11">Authors and Contributors</b> [↩] (#i11)
 @anasofiapessoa
 @RicardoGabriel
