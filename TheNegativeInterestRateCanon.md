@@ -58,7 +58,7 @@ Hence, when setting negative interest rates, central banks aim to improve econom
 
 ## What are the consequences/implications/risks/limits?
 
-* <b id="b11">Consumers</b> [↩](#b11):
+* <b id="b11">Consumers</b> [↩] (#b1):
 
 (Consequent to the negative interest rate, there is no incentive for consumers to save. Borrowing is more attractive, leading to a spurt in spending, thereby facilitating an economic recovery.)
 
