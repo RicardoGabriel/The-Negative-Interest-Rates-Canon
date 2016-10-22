@@ -1,16 +1,19 @@
+<id="b1">[Consumers](#b11)
+
+
 ## What is an Interest Rate?
 
-Before explaining in more detail how negative interest rates work, one must understand what an interest rate is. In economic terms, interest is what a borrower pays to a lender for the use of an <sup id="a1">[asset](#f1)</sup>  on top of the value of the same asset. In the case of borrowing money (asset), the borrower would have an obligation to pay back the amount he asked for, plus some pre-defined value (agreed between the lender and the borrower) that could be a percentage of the amount lent (interest rate), over an agreed period of time.
+Before explaining in more detail how negative interest rates work, one must understand what an interest rate is. In economic terms, interest is what a borrower pays to a lender for the use of an <sup id="a1">[asset](#f1)</sup>  on top of the value of the same asset. In the case of borrowing money (example of asset), the borrower would have an obligation to pay back the amount he asked for, plus some pre-defined value (agreed between the lender and the borrower) that could be a percentage of the amount lent (interest rate), over an agreed period of time.
 
-It is also important to distinguish nominal interest rates from real interest rates. The main difference between them is that the real interest rate takes into account <sup id="a2">[inflation](#f2)</sup> effect - which means that with the same amount of money the lender would be able to buy fewer goods than before, at the lending date. In other words, the real interest rate is what we, consumers, really experience in our daily life.
+It is also important to distinguish nominal interest rates from real interest rates. The main difference between them is that the real interest rate takes into account <sup id="a2">[inflation](#f2)</sup> - which means that with the same amount of money the lender would be able to buy fewer goods than before, at the lending date. In other words, the real interest rate is what we, consumers, really experience in our daily life.
 
 For example, if you borrow 100€ one year ago at a nominal interest rate of 10% per year, you will pay back to the lender 110€ which is the sum of the amount you asked (100€) and the interest paid on it (100x10%=10€).
 
-However, if you borrowed 100€ one year ago at a nominal interest rate of 10% per year and knowing that the inflation felt this last year was 5%, what you will really pay back today is 105€. This value comes from the sum of the amount you asked (100€) and the interest paid on it (100x10%=10€) minus the inflation effect which is given by (100x5%=5€).
+However, if you borrowed 100€ one year ago at a nominal interest rate of 10% per year and you know that the inflation felt this last year was 5%, what you will really pay back today is 105€. This value comes from the sum of the amount you asked (100€) and the interest paid on it (100x10%=10€) minus the inflation effect which is given by (100x5%=5€).
 
-Now, picture an upside-down World, where instead of paying interest you are actually receiving its value! Assuming  a nominal negative interest rate of (-10%), in the first example, instead of paying back 110€, you would only pay back 90€. Sounds crazy right? 
+Now, picture that same upside-down World, where instead of paying interest you are actually receiving its value! Assuming  a nominal negative interest rate of (-10%), and no inflation, instead of paying back 110€ you would only pay back 90€. Sounds crazy right? 
 
-#### How would this happen? Why would this happen? What consequences would exist? That is what we expect you to learn by reading this Canon!
+#### How would this happen? Why would this happen? What consequences there would be? That is what we expect you to learn by reading this Canon!
 
 
 First, we need to understand how does a simplified financial environment within a country or region work and that it is mainly composed of three agents: a Central Bank, Commercial Banks and Consumers.
@@ -56,7 +59,7 @@ Hence, when setting negative interest rates, central banks aim to improve econom
 
 ## What are the consequences/implications/risks/limits?
 
-* Consumers:
+* <b id="b11">Consumers</b> [↩](#b1):
 
 (Consequent to the negative interest rate, there is no incentive for consumers to save. Borrowing is more attractive, leading to a spurt in spending, thereby facilitating an economic recovery.)
 
@@ -115,27 +118,18 @@ Helicopter money can also be interpreted as tax cuts financed by monetary policy
 
 ## Conclusion (?)
 
-## Bibliography
-Adrian, T., and Shin, H.S. (2009). Financial Intermediaries and Monetary Policy. Federal Reserve Bank of New York Staff Reports, 298. 
-Berger, A.N. and Bouwman, C.S. (2009). Bank Liquidity Creation. The Review of Financial Studies, 22 (9). 
-Hanson, S.G., Kashyap, A.K. and Stein, J.C. (2011) A Macroprudential Approach to Financial Regulation. Journal of Economic Perspectives, 25 (1).
-http://www.nytimes.com/2016/09/21/business/international/japan-boj-negative-interest-rates.html
-http://www.wsj.com/articles/japans-negative-rate-experiment-is-floundering-1460644639
-https://media.mhfi.com/documents/NegativeRatesFeb2016.pdf
-http://fortune.com/2016/06/01/negative-rates-safes/
-http://www.bloomberg.com/news/videos/2016-06-22/why-the-boj-s-negative-rate-policy-isn-t-a-game-changer
-https://www.youtube.com/watch?v=bhc0X9SSI1g
-https://www.ft.com/content/0048beea-766e-11e6-bf48-b372cdb1043a
-http://www.bbc.com/news/business-32284393
-https://www.ecb.europa.eu/press/key/date/2016/html/sp160728.en.html
 
-http://www.investopedia.com/articles/investing/082113/understanding-interest-rates-nominal-real-and-effective.asp
+## Concepts
 
-### Concepts
+<b id="f1">Asset</b>: can be defined as a resource that has an economic value attached to it. These can be bought or created to increase the value of a firm or an individual. [Learn More] (http://www.accountingtools.com/definition-asset)  [↩](#a1)
 
-<b id="f1">Asset</b>: can be defined as a resource that has an economic value attached to it. These can be bought or created to increase the value of a firm or an individual. [#] (http://www.accountingtools.com/definition-asset)  [↩](#a1)
+<b id="f2">Inflation</b>: refers to the rise in general price levels. Thus an individual will have to pay more for goods and services. [Learn More] (http://www.investopedia.com/terms/i/inflation.asp) [↩](#a2)
 
-<b id="f2">Inflation</b>: refers to the rise in general price levels. Thus an individual will have to pay more for goods and services. [#] (http://www.investopedia.com/terms/i/inflation.asp) [↩](#a2)
+<b id="f3">Central Bank</b>: independent national/supranational authority that conducts monetary policy, regulates banks, and provides financial services including economic research. Its main goal is to keep stability in price levels. [Learn More] (https://www.thebalance.com/what-is-a-central-bank-definition-function-and-role-3305827) [↩](#a3)
+
+<b id="f4">Commercial Banks</b>: institutions that offer products and services to firms and individuals. The most relevant tasks are the acceptance of deposits and the issuing of loans. [Learn More] (http://study.com/academy/lesson/what-are-commercial-banks-definition-roles-functions.html) [↩](#a4)
+
+
 
 ### Authors and Contributors
 @anasofiapessoa
