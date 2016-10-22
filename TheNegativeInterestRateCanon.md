@@ -136,7 +136,7 @@ http://www.investopedia.com/articles/investing/082113/understanding-interest-rat
 
 ### Concepts
 
-<b id="myfootnote1">Asset</b>: An asset can be defined as a resource that has an economic value attached to it. These can be bought or created to increase the value of a firm or an individual(#)[http://www.accountingtools.com/definition-asset].  [↩](#a1)
+<b id="myfootnote1">Asset</b>: An asset can be defined as a resource that has an economic value attached to it. These can be bought or created to increase the value of a firm or an individual [#] (http://www.accountingtools.com/definition-asset).  [↩](#a1)
 
 
 ### Authors and Contributors
