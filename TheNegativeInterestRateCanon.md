@@ -1,10 +1,8 @@
-# Starting Point:
-
 ## What is an Interest Rate?
 
-Before explaining in more detail how negative interest rates work, one must understand what an interest rate is. In economic terms, interest is what a borrower pays to a lender for the use of an <sup id="a1">[asset](#myfootnote1)</sup>  on top of the value of the same asset. In the case of borrowing money (asset), the borrower would have an obligation to pay back the amount he asked for, plus some pre-defined value (agreed between the lender and the borrower) that could be a percentage of the amount lent (interest rate), over an agreed period of time.
+Before explaining in more detail how negative interest rates work, one must understand what an interest rate is. In economic terms, interest is what a borrower pays to a lender for the use of an <sup id="a1">[asset](#f1)</sup>  on top of the value of the same asset. In the case of borrowing money (asset), the borrower would have an obligation to pay back the amount he asked for, plus some pre-defined value (agreed between the lender and the borrower) that could be a percentage of the amount lent (interest rate), over an agreed period of time.
 
-It is also important to distinguish nominal interest rates from real interest rates. The main difference between them is that the real interest rate takes into account inflation effect - which means that with the same amount of money the lender would be able to buy fewer goods than before, at the lending date. In other words, the real interest rate is what we, consumers, really experience in our daily life.
+It is also important to distinguish nominal interest rates from real interest rates. The main difference between them is that the real interest rate takes into account <sup id="a2">[inflation](#f2)</sup> effect - which means that with the same amount of money the lender would be able to buy fewer goods than before, at the lending date. In other words, the real interest rate is what we, consumers, really experience in our daily life.
 
 For example, if you borrow 100€ one year ago at a nominal interest rate of 10% per year, you will pay back to the lender 110€ which is the sum of the amount you asked (100€) and the interest paid on it (100x10%=10€).
 
@@ -12,9 +10,8 @@ However, if you borrowed 100€ one year ago at a nominal interest rate of 10% p
 
 Now, picture an upside-down World, where instead of paying interest you are actually receiving its value! Assuming  a nominal negative interest rate of (-10%), in the first example, instead of paying back 110€, you would only pay back 90€. Sounds crazy right? 
 
-#### How would this happen? Why would this happen? That is what you will learn with this canon!
+#### How would this happen? Why would this happen? What consequences would exist? That is what we expect you to learn by reading this Canon!
 
-# Taking Off:
 
 First, we need to understand how does a simplified financial environment within a country or region work and that it is mainly composed of three agents: a Central Bank, Commercial Banks and Consumers.
 
@@ -136,8 +133,9 @@ http://www.investopedia.com/articles/investing/082113/understanding-interest-rat
 
 ### Concepts
 
-<b id="myfootnote1">Asset</b>: An asset can be defined as a resource that has an economic value attached to it. These can be bought or created to increase the value of a firm or an individual [#] (http://www.accountingtools.com/definition-asset).  [↩](#a1)
+<b id="f1">Asset</b>: can be defined as a resource that has an economic value attached to it. These can be bought or created to increase the value of a firm or an individual. [#] (http://www.accountingtools.com/definition-asset)  [↩](#a1)
 
+<b id="f2">Inflation</b>: refers to the rise in general price levels. Thus an individual will have to pay more for goods and services. [#] (http://www.investopedia.com/terms/i/inflation.asp) [↩](#a2)
 
 ### Authors and Contributors
 @anasofiapessoa
