@@ -38,30 +38,37 @@ Now, picture that same upside-down World, where instead of paying interest you a
 
 #### <b id="b2"> How would this happen? Why would this happen? What consequences there would be? That is what we expect you to learn by reading this Canon! </b> [↩] (#i2)
 
-First, we need to understand how does a simplified financial environment within a country (or region) work and that it is mainly composed of three agents: a <b id="a3">[Central Bank](#f3)</b>, <b id="a4">[Commercial Banks](#f4)</b>, you and other consumers.
+First, consider a *simplified* financial environment within a country (or region). It is primarly composed of three agents: a <b id="a3">[Central Bank](#f3)</b>, <b id="a4">[Commercial Banks](#f4)</b> and consumers, just like you.
+
+These three agents are interconnected in such a way that a lending/borrowing rate that one sets affects the others. The flowchart given below explains this relationship:
 
 <div style="text-align:center"><img src="https://github.com/RicardoGabriel/first-repo/blob/master/Image1.png" width="1000"></div>
 
-Most central banks demand that commercial banks maintain a minimum level of <b id="a5">[reserves](#f5)</b> (so called required reserves) to preserve <b id="a6">[liquidity](#f6)</b> and <b id="a7">[solvency](#f7)</b> against any unexpected event, such as bank runs. Commercial banks hold a portion of their reserves at the central bank, who pays interest on those required reserves and/or on excess reserves, those above the required minimum, at the *official deposit rate*. [Relation 1.a]
+Starting with the Central Bank, it sets the policy rates or the official bank (lending) rate and deposit rate for the commercial banks (relation 1). Most Central Banks demand that commercial banks maintain a minimum level of <b id="a5">[reserves](#f5)</b> (so called required reserves) in order to meet their operating needs and as a measure of safety for unexpected events such as huge cash withdrawals by customers. Commercial Banks hold a portion of their reserves at the central bank, who pays interest on those required reserves and/or on excess reserves, those above the required minimum, at the *official deposit rate*. In this scenario, a negative deposit rate means that banks are charged for saving their excess reserves.
 
-However there may be some commercial banks that need help meeting their reserve requirement and, as a last resort, they may borrow from the central bank at the *official lending rate* [Relation 1.b]
+However there may be some Commercial Banks that need help meeting their reserve requirement and, as a last resort, they may borrow from the central bank at the *official lending rate*. Here, a negative lending rate implies that borrowing is now cheaper for the commercial banks.
 
-To meet reserve requirements, commercial banks can also borrow from one another at interbank market overnight rate [Relation 2]. Which is always higher than the rate on the deposits at the central bank (such they can make a profit) and lower than central bank’s lending rate (such it is still preferred …).
+To meet reserve requirements, Commercial Banks can also borrow from one another at the so-called interbank market overnight rate (relation 2). This rate is closely determined by the policy rates set by the Central Bank, where its deposit rate acts as a floor (as Commercial Banks aim to earn, by lending to other banks, at least as much as they would have by saving the same amount at the Central Bank) and its lending rate acts as a ceiling (as banks would not want to pay more to borrow from other Commercial Banks than what they would pay the Central Bank). In this context, a negative interbank rate implies that although banks can borrow more cheaply from each other, they also have to pay interest on the excess liquidity they loan out to other banks, keeping the net profit zero.
 
-Commercial banks’ own borrowing costs, operating costs and regulatory requirements are some of the factors which affect the commercial banks’ lending rate to consumers [Relation 3]
+Finally, this interbank rate or the borrowing cost for Commercial Banks, in turn determines the borrowing rates for Consumers (relation 3). A negative borrowing rate may sound really attractive as you are paid to borrow, but the net effect on consumers is uncertain if banks decide to compensate it by charging a deposit fee for the negative interest rates they face. (This and other <b id="i4">[consequences]</b> will be discussed later on.) [#] (http://www.goldmansachs.com/our-thinking/pages/macroeconomic-insights-folder/negative-interest-rates-101/img-01-slide.png)
 
-As you can see in the previous figure, these three important relations that we just wrote about are highly interconnected. For instances, if the rate on the deposits at the central bank increase, then banks will lend to one another at a higher rate making its costs of borrowing higher, therefore consumers borrowing rates could increase.
+To sum up, the three entities presented above are interconnected in such a way that a rate set by the Central Banks influences the other two. Look at an example graph below:
 
+<div style="text-align:center"><img src="https://github.com/RicardoGabriel/first-repo/blob/master/Image2.png" width="650"></div>
+
+For instance, if the rate on the deposits at the central bank increases, then banks will lend to one another at a higher rate, making its costs of borrowing higher, and therefore the rate at which consumers borrow may also increase. However, a higher interbank borrowing rate does not necessarily imply an equally higher consumer borrowing rate as shown in the graph above, as it is determined by other factors such as the bank’s operating costs, credit risk, regulatory requirements etc. 
 
 ## What are the Mechanisms of negative interest rates? How do they work? How does the CB influence interest rates?
  
-Banks create money by making loans when banks stop lending because of the aftermath of financial crisis, they stop creating money. At the same time, people still repay their loans, and that results in destroying the money in the economy: the amount of money in the economy is shrinking. Therefore, it is important to stimulate the lending from banks, this can be achieved with lower interest rates.
+Commercial banks create money by matching loans and households deposits. A bank first decides how much money to lend depending on the profitable opportunities, and then matches the loans with the deposits in the borrower’s bank account. The profitability of opportunities mainly depends on the interest rate set by the central banks. By matching loans and deposit the amount of money that is available in the economy multiplies. For example, when someone takes out a mortgage to buy a house, the bank makes a loan. In this case the bank’s asset account becomes smaller, while it increases the money available for consumers in the economy with the same amount. 
 
-Especially in recessions, lower interest rates are used as instruments to encourage business and individuals to borrow and spend. More spending leads to more demand for goods and services and means higher employment to meet that demand. In theory, this works for positive interest rates, but works this also for negative interest rates? In the case of negative interest rates, you borrow and spend € 100 today, and repay € 97 next year. This sounds attractive to create more demand for products and services. However, there is a problem with negative interest rates: nobody would lend on those terms. It would be better to keep your money in cash because the return would be zero. In this way, the negative interest rate works as a tax on holding money. 
+Lower interest rates are used as instruments to encourage business and individuals to borrow and spend. More spending leads to more demand for goods and services and means higher employment to meet that demand. 
 
-A central bank influences the interest rates with monetary policies. Before the crisis of 2008-09 lowering the interest rates on excess reserves that banks keep at central banks was the main instrument. In periods of stress, the central banks reduce the overnight rate, so this will reduce the funding cost for banks and encourage them to make more loans. Making more loans will stimulate the economy, and can prevent it from slipping into a recession. However, this instrument failed during the crisis, with an overnight rate close to zero, the central banks were not able to boost the economy.
+In theory, this works for positive interest rates, but does this work for negative interest rates as well? In the case of negative interest rates, you borrow and spend € 100 today, and repay € 97 next year. This sounds attractive to create more demand for products and services. However, there is a problem with negative interest rates: nobody would lend on those terms. It would be better to keep your money in cash because the return would be zero. In this way, the negative interest rate works as a tax on holding money.
 
-On the other hand, the interest rates can also be influenced with quantitative easing, experimenting started after the crisis. Central banks create money by buying securities from banks. The central banks buy assets, for example, government bonds, from banks by ‘printing’ new cash. The size of bank reserves expands due to the purchase of a quantity of assets: quantitative easing. By creating and pushing more money into the economy, the stock prices will rise and will decrease the interest rates. An important point to notice is that the central bank can influence the consumer confidence. If the CB convinces the market that they are serious about the QE to fight unemployment or deflation, then it can boost economic activity by raising confidence. 
+A central bank influences the interest rates with monetary policies, and two common policies are lowering the interest rates and quantitative easing. Lowering the interest rates on excess reserves that banks keep at central banks was the main instrument. In periods of stress, the central banks lower the overnight rate, so this will reduce the funding cost for banks and encourage them to make more loans. Making more loans will stimulate the economy, and can prevent it from slipping into a recession.
+
+On the other hand, the interest rates can also be influenced with quantitative easing. Central banks create money by buying assets, for example government bonds or securities, from banks. The Central banks pay for these assets by ‘printing’ new cash. The size of bank reserves expands due to the purchase of a quantity of assets: quantitative easing. By creating and pushing more money into the economy, the stock prices will rise and will decrease the interest rates. 
 
 ## <b id="b3">What are the desired consequences for a policymaker who sets interest rates negative?</b> [↩] (#i3)
 
@@ -83,17 +90,23 @@ Hence, when setting negative interest rates, central banks aim to improve econom
 
 * <b id="b5">**Consumers:**</b> [↩] (#i5)
 
-(Consequent to the negative interest rate, there is no incentive for consumers to save. Borrowing is more attractive, leading to a spurt in spending, thereby facilitating an economic recovery.)
+Consequent to the negative interest rate, there is no incentive for consumers to save. Borrowing is more attractive, leading to a spurt in spending, thereby facilitating an economic recovery. Negative interest rates could have several positive implications on consumers.
+ 
+Firstly, the transfer of resources from net savers to net borrowers. As net borrowers typically have a higher marginal propensity to consume i.e. they consume more for every unit of income that they earn, than net savers, this encourages consumption. Consumers buy more goods and consequently, this leads to greater investment. However, this increase in loans increases the circulation of money in the economy, forcing prices up, which could turn out to be harmful for low-income households.
+ 
+Secondly, negative interest rates encourage auto loans (loans taken to purchase automobiles) and home mortgages. Owing to the negative interest rates, banks drop the interest rate on the mortgages they extend, which will mean better interest rates for consumers. This leads to a greater expansion of low or no-down payment mortgages i.e. individuals reduce or completely eliminate the risk of loosing the down payment amount in case their mortgage ends up in foreclosure. This, in turn would positively affect the housing market due to greater demand.
+ 
+However, there may be certain risks associated with negative interest rates for consumers. Since banks now accept riskier loans or in other words, have to pay to store their cash, it could decide to compensate by charging a security fee on each loan they lend out, essentially transferring all the costs to the consumers. If instead, banks decide to absorb these costs, this could severely dampen their profits.
+ 
+It follows that there are certain limitations to negative interest rates. While it is used as a
+tool to encourage consumption and investment, it would cause problems for people who store money in banks, especially those who save for retirement. If all of a sudden, the retirement savings account stops paying interest and the effect reverses, savers will end up receiving less money that they expect to receive after retirement.
+ 
+A negative nominal interest rate could happen when a smaller return in the future represents more purchasing power than the current price of a security. However, the reason why individuals may want to invest in a security, which provides a return that is less than its current price, could be for the security it provides, compared to stashing away the cash in a mattress!
+ 
+Overall, the net effect that negative interest rates have on consumers is unclear. While consumers can benefit when they are paid whenever they borrow, the same effect reverses if banks charge them with a fee, causing the effective interest rate to be zero.
 
-Negative interest rates could have several positive implications on consumers. 
-
-Firstly, the redistribution of resources from net savers to net borrowers. As net borrowers typically have a higher marginal propensity to consume, this encourages consumption. Consumers buy more goods and consequently, this leads to greater investment. However, this increase in loans increases the circulation of money in the economy, forcing prices up, which could turn out to be harmful to low-income households. 
-
-Secondly, negative interest rates encourage auto loans and home mortgages. Owing to the negative interest rates, banks drop the interest rate on the mortgages they extend, which will mean better interest rates for consumers and greater expansion of low or no-down payment mortgages, which in turn would affect the housing market.
-
-However, there may be certain risks associated with negative interest rates for consumers. Since banks now accept riskier loans or, in other words, pay to accept deposits, it could decide to compensate by charging a security fee on each demand deposit account, essentially transferring the costs to the consumers. If however, banks decide to absorb all the costs, this could severely dampen their profits.
-
-If follows that there are certain limitations to negative interest rates. While it is used as a tool to encourage consumption and investment, it would cause problems for people who save money in banks, especially those who save for retirement. If all of a sudden, the retirement savings account stops paying interest and the effect reverses, savers will end up receiving less money that they expect to receive after retirement.
+http://www.investopedia.com/articles/markets/080916/how-negative-interest-rates-can-affect-consumers.asp
+http://www.advisoryhq.com/articles/negative-interest-rates/
 
 * <b id="b6">**Banks and other financial lenders:**</b> [↩] (#i6)
 
