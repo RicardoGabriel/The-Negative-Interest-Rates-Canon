@@ -46,6 +46,12 @@ These three agents are interconnected in such a way that a lending/borrowing rat
 
 <div style="text-align:center"><img src="https://github.com/RicardoGabriel/first-repo/blob/master/Image1.png" width="800"></div>
 
+[image] (/images/Image1.png)
+
+![](/images/Image1.png)
+
+ ![Image](/images/Image1.png?raw=true)
+
 Starting with the Central Bank, besides setting <b id="a6">[monetary policy](#f6)</b> for a region, it also sets the policy rates (the official bank (lending) rate and deposit rate) for the commercial banks (relation 1). Most Central Banks demand that commercial banks maintain a minimum level of <b id="a5">[reserves](#f5)</b> (so called required reserves) in order to meet their operating needs and as a measure of safety for unexpected events such as huge cash withdrawals by Consumers. Central Banks pay interest on excess reserves, those above the required minimum, at the *official deposit rate*. In this scenario, a negative deposit rate means that banks are charged for saving their excess reserves.
 
 However there may be some Commercial Banks that need help meeting their reserve requirement and, as a last resort, they may borrow from the Central Bank at the *official lending rate*. Here, a negative lending rate implies that borrowing is now cheaper for Commercial Banks.
