@@ -12,9 +12,7 @@
 
 * <b id="i6">[Banks and other financial lenders](#b6)</b> 
 
-* <b id="i7">[Central Banks](#b7)</b> 
-
-<b id="i8">[Japan and EU case-studies](#b8)</b> 
+<b id="i8">[Japan and Eurozone case-studies](#b8)</b> 
 
 <b id="i9">[Are there any alternatives?](#b9)</b> 
 
@@ -86,6 +84,15 @@ Another relevant consequence of negative interest rates is the weaker currency. 
 
 Hence, when setting negative interest rates, central banks aim to improve economic growth, increase inflation and decrease unemployment, through implicit lower borrowing costs for banks and consumers and a weaker currency.
 
+Central banks are using this ‘negative interest rate’ policy as an attempt to stimulate the economy when conventional monetary policy ceases to work due to low interest rates and the economy being in a liquidity trap. Since the global financial crisis, the central are using low-interest rate policies to accommodate low investments, low output, and low inflation. The European Central Bank has placed the deposit rate below zero and the main refinancing rate at zero, the rates between the central bank and the banks,  in response to the persistent recession. There is a limitation to negative interest rate policies as discussed before. People would rather hold cash at zero interest rate or look for other assets with positive returns.
+
+The Central Banks need to be mindful of the risks involved for consumers, banks and other financial intermediaries and how these risks and their subsequent behavior can affect the stability of the financial market. The Central Bank also needs to keep in mind that these players don’t always act rationally when they are conducting monetary policy and be aware of other potential channels in which monetary policy can affect the macroeconomy through these players.
+
+https://www.ecb.europa.eu/press/key/date/2016/html/sp160728.en.html
+http://www.bis.org/publ/work268.htm
+
+____________________________________________________________
+
 ## <b id="b4">What are the consequences of the use of negative interest rates for: </b> [↩] (#i4)
 
 * <b id="b5">**Consumers:**</b> [↩] (#i5)
@@ -113,45 +120,34 @@ In the Eurozone, Denmark, Sweden, Switzerland and Japan, the central banks have 
 
 One of the ideas behind the negative interest rate policies adopted by these Central Banks is to stimulate the economy by driving up investments. As it is not optimal to place their money at the Central Bank, the Commercial Banks go out in search for alternative assets and investments. Commercial Banks may use these extra funds on R&D investments and loans to entrepreneurs, for example. The banks would also rather lend to one another because of the negative interest rate at the central bank - so interbank lending is promoted, allowing the financial market to partly finance itself.
 
-Investments and the value of assets increase in the presence of negative interest rates as Commercial Banks, lenders and other investors look for more profitable assets. There is more <b id="a11">[liquidity](#f11)</b> in the financial market, in contrast to the implications for households, this is a positive environment for Commercial Banks to be able to grow in. It can also have a positive effect on the economy. Studies [#1] (https://www.imf.org/external/np/res/seminars/2009/arc/pdf/adrian.pdf) [#2] (https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr398.pdf) [#3] (http://www.bis.org/publ/work268.htm) have shown that finance and economic growth have a positive relationship. However, there are risks and moral hazards involved. [#] (http://moore.sc.edu/UserFiles/moore/Documents/Finance/Berger/BankLiquidityCreationMonetaryPolicyandFinancialCrises.pdf)
+Investments and the value of assets increase in the presence of negative interest rates as Commercial Banks, lenders and other investors look for more profitable assets. There is more <b id="a11">[liquidity](#f11)</b> in the financial market, in contrast to the implications for households, this is a positive environment for Commercial Banks to be able to grow in. It can also have a positive effect on the economy. Studies [#1] (https://www.imf.org/external/np/res/seminars/2009/arc/pdf/adrian.pdf) [#2] (https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr398.pdf) [#3] (http://www.bis.org/publ/work268.htm) have shown that finance and economic growth have a positive relationship. However, there are risks and  <b id="a12">[moral hazards](#f12)</b> involved. [#] (http://moore.sc.edu/UserFiles/moore/Documents/Finance/Berger/BankLiquidityCreationMonetaryPolicyandFinancialCrises.pdf)
 
-Another one of the main functions of the financial market is risk transformation. Banks and other financial intermediaries transfer risk-free deposits into riskier loans compared to the deposit risk. To some degree, transferring risk and giving out loans is desirable, to increase GDP growth. On the other hand, a problem arises when banks take part in too much risk-taking behavior. 
+By looking for other assets and investments with a positive return, its demand increases and so do their prices. Banks go in search of returns where they can find it, often accepting riskier loans and assets where they give out loans to people that have a higher chance of not being able to pay back the loan, i.e. with higher default risk. This phenomena is called ‘searching for yield’. 
 
-By looking for other assets and investments with a positive return, the demand for other assets increases and so do their prices. Banks go in search of returns where they can find it, often accepting riskier loans and assets where they give out loans to people that have a higher chance of not being able to pay back the loan. This phenomena is called ‘searching for yield’. This causes the overall likelihood of bank default to go up and asset bubbles to form. When the bubble bursts and consumers start being unable to payback their loans, the bank defaults when they are unable to pay back their liabilities due to not getting enough money from their borrowers. 
+This causes the overall likelihood of <b id="a13">[bank default](#f13)</b> to go up and <b id="a14">[asset bubbles](#f14)</b> to form. When the bubble bursts and Consumers start being unable to payback their loans, the Bank defaults as it is unable to pay back their liabilities (debts) due to not getting enough money from their borrowers. And when a large enough bank defaults, it can cause <b id="a15">[bank runs](#f15)</b> and, similarly to the financial crisis in 2008-2009, cause a financial crisis that can lead to a recession - if Banks are not regulated optimally, it endangerous the stability of the financial system. [#] (https://www.macroeconomics.tu-berlin.de/fileadmin/fg124/Regulation/Hanson-Kashyap-Stein-2011.pdf)
 
-Commercial banks tend to sell off a large portion of their long-term assets at the same time in financial turmoil. The supply of these assets rises dramatically, causing tumbling asset prices in what is called a ‘fire sale’. This can lead to a stock market collapse. The banks can also shrink their assets by cutting off new lending to investments, which is the counter effect of what negative interest rates hope to achieve.
-
-Risk taking behavior: The risk-taking behavior of banks discussed concerns the bank’s risk preferences and how they change their preferences based on the possibility of large financial loss given their financial return. Like becoming less risk averse in gains (more accepting of risk). 
-
-For other financial lenders, it can be tricky. When there are negative interest rates, they get less money back from their investments than that is actually lent out. Rationally, lenders would rather not lend out money to borrowers and there would be a shortage of liquidity available to borrowers that would want to borrow due to the low cost of borrowing. Also, this cash holding phenomena is important for banks as well, as the depositors may rather hold cash at zero nominal interest rate and withdraw their deposits, causing bank and financial instability.
+For other financial lenders, when there are negative interest rates, they get less money back from their investments than what is actually lent out. Rationally, lenders would rather not lend out money to borrowers so, there would be a shortage of liquidity available to borrowers that would want to borrow due to the low cost of borrowing. Also, this cash holding phenomena is important for banks as well, as the depositors may rather hold cash at zero nominal interest rate and withdraw their deposits, also causing bank and financial instability.
 
 
-* <b id="b7">**Central Banks:**</b> [↩] (#i7)
-
-Central Banks are using this ‘negative interest rate’ policy as an attempt to stimulate the economy when conventional monetary policy seizes to work due to zero bounded interest rates and the economy being in a liquidity trap. Since the global financial crisis, the central are using low-interest rate policies to accommodate low investments, low output, and low inflation. The European Central Bank has placed the deposit rate below zero and the main refinancing rate at zero in response to the persistent recession. There is a limitation to negative interest rate policies, as people would rather hold cash at zero interest rate or look for other assets with positive returns.
-
-The Central Banks need to be mindful of the risks involved for consumers, banks and other financial intermediaries and how these risks and their subsequent behavior can affect the stability of the financial market. The Central Bank needs to keep in mind that these players do not always act rationally when conducting monetary policy and also be aware of other potential channels in which monetary policy can affect the macroeconomy through said players.
-
-## <b id="b8">Japan and EU case-studies </b> [↩] (#i8)
+## <b id="b8">Japan and Eurozone case-studies </b> [↩] (#i8)
 
 Since Japanese asset bubble collapse in the early 1990s, **Japan** has been in an economic recession. It took 12 years for Japan's GDP to recover to the same level as 1995. This is commonly known as the [lost decade] (http://www.economist.com/blogs/freeexchange/2012/08/lost-decades) of Japan. Even in the current year of 2016, the country still experiences weak economic growth, stagnated price level and real wages.
 
 Bank of Japan (BOJ) first tried to stimulate country’s economy with a zero interest rate and quantitative easing programs, to inject huge amounts of money in the financial system. However, the result seemed to work only for a short period of time. For this reason, in early 2016, the BOJ decided to adopt a negative interest rate policy, with the expectation to achieve a 2% inflation rate. The BOJ has not only cut interest rate on some deposits that banks place at the central bank to minus 0.1%, as it still maintains the quantitative easing program. In addition, Japan government also asked for Japanese corporates to raise full-time and part-time employees’ salary to increase household spending.[#] (http://www.japantimes.co.jp/news/2016/06/06/national/stimulus-efforts-struggle-abe-pushes-equal-pay-lift-japans-economy/#.WAnzEvmrhBc)
 
-Some critics say that this policy might not be able to boost Japan’s economy due to the long term deflation and that the BOJ may be running out of monetary policy tools [#]. (http://www.bloomberg.com/news/articles/2016-04-06/japan-is-fast-approaching-the-quantitative-limits-of-quantitative-easing) However, until now, there is no clear proof or evidence about the consequences of negative rates policy. The BOJ has said that there is no boundary and rates can be cut further as needed. Change in policy to welcome more immigration to boost workforce has been discussed for possibility as well. [#] (http://www.japantimes.co.jp/news/2016/01/06/national/social-issues/government-weighs-immigration-maintain-population-boost-workforce/#.WAn1y_mrhBc)
+Some critics say that this policy might not be able to boost Japan’s economy due to the long term deflation and that the BOJ may be running out of monetary policy tools. [#] (http://www.bloomberg.com/news/articles/2016-04-06/japan-is-fast-approaching-the-quantitative-limits-of-quantitative-easing) However, until now, there is no clear proof or evidence about the consequences of negative rates policy. The BOJ has said that there is no boundary and rates can be cut further as needed. Change in policy to welcome more immigration to boost workforce has been discussed for possibility as well. [#] (http://www.japantimes.co.jp/news/2016/01/06/national/social-issues/government-weighs-immigration-maintain-population-boost-workforce/#.WAn1y_mrhBc)
 
 
-The **European** sovereign debt crisis began at the end of 2009, when eurozone member states of Greece, Spain, Ireland, Portugal and Cyprus were unable to repay or refinance their government debt. As a result some countries did not fully recovered and the European Union (EU) is still facing a period of low inflation and low GDP growth. [#] (http://www.investopedia.com/terms/e/european-sovereign-debt-crisis.asp)
+The **Eurozone** sovereign debt crisis began at the end of 2009, when eurozone member states of Greece, Spain, Ireland, Portugal and Cyprus were unable to repay or refinance their government debt. As a result some countries did not fully recovered and the European Union (EU) is still facing a period of low inflation and low GDP growth. [#] (http://www.investopedia.com/terms/e/european-sovereign-debt-crisis.asp)
 
 With the single monetary policy from the European Central Bank (ECB) eurozone member states' governments can't independently make monetary policy decisions, so they can't use it to economically recover themselves. Taking this into account, the ECB cut bank rates in several steps during 2012–2013 in order to boost inflation and to stimulate growth. However, the Eurozone economy was still weak so, in June 2014, the ECB became the world’s first major central bank to launch negative interest rates, cutting its depositary interest rate to minus 0.1% and more recently (March, 2016) to minus 0.4%. [#] (http://www.investopedia.com/articles/investing/040215/understanding-negative-rates-europes-central-banks.asp)
 
-Representatives from the European Central Bank tell us that most of the consequences felt so far, point towards a successful achievement of economic growth. For instance, the net income of euro area significant banking groups actually increased between 2014 and 2015.
+Representatives from the European Central Bank tell us that most of the consequences felt so far, point towards a successful achievement of economic growth. For instance, the net income of euro area significant banking groups actually increased between 2014 and 2015. [#] (https://www.ecb.europa.eu/press/key/date/2016/html/sp160728.en.html)
 
-The reason behind the ECB’s decision is quite similar as BOJ's decision. Both regions are mature economies with fewer investment opportunities and a similar demographic problem (working age population is diminishing). Therefore, they want to boost inflation and spending with negative rates policy. 
-(http://business.financialpost.com/news/economy/japan-in-transition-rest-of-world-watches-as-country-tries-negative-interest-rates-to-spur-economy)
 
-It is difficult to say how long exactly these low interest rates will continue, but it’s expected that rates will be low for years. Current rate is minus 0.4 and what will happens next is still unknown.  
-(https://www.ecb.europa.eu/press/key/date/2016/html/sp160728.en.html)
+The reason behind the ECB’s decision is quite similar as BOJ's decision. Both regions are mature economies with fewer investment opportunities and a similar demographic problem (working age population is diminishing). Therefore, they want to boost inflation and spending with negative rates policy.[#] (http://business.financialpost.com/news/economy/japan-in-transition-rest-of-world-watches-as-country-tries-negative-interest-rates-to-spur-economy)
+
+However, it is difficult to say how long these low interest rates will continue and what the real consequences for the economies would be. [#] (add website)
 
 
 ## <b id="b9">Are there any alternatives?</b> [↩] (#i9)
@@ -163,7 +159,7 @@ Another substitute of negative interest rates is described in Milton Friedman’
 Helicopter money can also be interpreted as tax cuts financed by monetary policy. Ben Bernanke and Willem Buiter defend that the government could decrease taxes if central banks commit to purchase government debt. It is important to distinguish this from what many governments have been doing with quantitative easing before the negative interest rates. With quantitative easing central banks buy assets that the governments have to pay back. However, according to this theory, the bonds issued by the governments would be perpetual bonds at an interest rate of zero. Therefore, while the central banks would buy and hold these assets forever, the governments would not pay back the loan neither interest. However, as Willem Buiter claims, coordination between the central bank and the government is required for the real-world implementation of helicopter money drops. The fact that governments may get used to get this type funding to finance investments or tax cuts for instance also concern policy makers and economists.  
 
 
-## Conclusion (?)
+### Did you find this article helpfull? Please give us your feedback [here] (https://goo.gl/forms/Wc2XX4FVV740YTT93)!
 
 
 ## <b id="b10">Concepts</b> [↩] (#i10)
@@ -190,7 +186,27 @@ Helicopter money can also be interpreted as tax cuts financed by monetary policy
 
 <b id="f11">**Liquidity:**</b> measures how quickly an asset can be bought or sold (traded) in the market . For instance, cash is the most liquid asset available because it can always be used easily and immediately. [Learn More] (http://www.investopedia.com/articles/basics/07/liquidity.asp) [↩](#a11)
 
+<b id="f12">**Moral Hazard:**</b> when someone is taking more risk because he knows that will not be bear the consequences/costs. This is a common issue with insurances. An insured person might behave differently compared to an uninsured person. The insured person is willing to take the extra risk because the insurance company will pay for the costs. [Learn More] (http://www.investopedia.com/terms/m/moralhazard.asp) [↩](#a12)
+
+<b id="f13">**Bank Default:**</b> situation in which a bank cannot pay the money back which it borrowed. This could lead to bankruptcy. [Learn More] (http://www.investopedia.com/terms/d/default2.asp) [↩](#a13)
+
+<b id="f14">**Asset Bubble:**</b> occurs when the market price of an asset is remarkably higher than the ‘true value’ or intrinsic value. This might eventually lead to a collapse of the asset. [Learn More] (https://www.thebalance.com/asset-bubble-causes-examples-and-how-to-protect-yourself-3305908) [↩](#a14)
+
+<b id="f15">**Bank Runs:**</b>  [Learn More] () [↩](#a15)
+
+<b id="f">**:**</b>  [Learn More] () [↩](#a)
+
+<b id="f">**:**</b>  [Learn More] () [↩](#a)
+
+<b id="f">**:**</b>  [Learn More] () [↩](#a)
+
+<b id="f">**:**</b>  [Learn More] () [↩](#a)
+
+
 ### <b id="b11">Authors and Contributors</b> [↩] (#i11)
 @anasofiapessoa
 
 @RicardoGabriel
+
+
+We are really thankfull to Professors Smulders and @janboone
