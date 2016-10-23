@@ -24,7 +24,7 @@
 
 ## <b id="b1"> What is an interest rate?</b> [↩] (#i1)
 
-<html><body style="text-align:justify"> Before explaining in more detail how negative interest rates work, one must understand what an interest rate is. In economic terms, interest is what a borrower pays to a lender for the use of an <b id="a1">[asset](#f1)</b>  on top of the value of the same asset. In the case of borrowing money (example of asset), the borrower would have an obligation to pay back the amount he asked for, plus some pre-defined value (agreed between the lender and the borrower) that could be a percentage of the amount lent (interest rate), over an agreed period of time.</body></html>
+<div class="align-justify">Before explaining in more detail how negative interest rates work, one must understand what an interest rate is. In economic terms, interest is what a borrower pays to a lender for the use of an <b id="a1">[asset](#f1)</b>  on top of the value of the same asset. In the case of borrowing money (example of asset), the borrower would have an obligation to pay back the amount he asked for, plus some pre-defined value (agreed between the lender and the borrower) that could be a percentage of the amount lent (interest rate), over an agreed period of time.</div>
 
 It is also important to distinguish nominal interest rates from real interest rates. The main difference between them is that the real interest rate takes into account <b id="a2">[inflation](#f2)</b> - which means that with the same amount of money the lender would be able to buy fewer goods now than before. In other words, the real interest rate is what we, consumers, really experience in our daily life.
 
