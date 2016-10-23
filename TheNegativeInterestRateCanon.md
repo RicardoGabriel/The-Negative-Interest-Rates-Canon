@@ -2,7 +2,7 @@
 
 <b id="i1">[What is an interest rate?](#b1)</b>
 
-<b id="i2">[How do interest rates relate to a *simplified* financial system?](#b2)</b>
+<b id="i2">[How do interest rates work in a *simplified* financial system?](#b2)</b>
 
 <b id="i3">[What are the desired consequences for a policymaker who sets interest rates negative?](#b3)</b>
 
@@ -24,9 +24,9 @@
 
 ## <b id="b1"> What is an interest rate?</b> [↩] (#i1)
 
-Before explaining in more detail how negative interest rates work, one must understand what an interest rate is. In economic terms, interest is what a borrower pays to a lender for the use of an <b id="a1">[asset](#f1)</b>  on top of the value of the same asset. In the case of borrowing money (example of asset), the borrower would have an obligation to pay back the amount he asked for, plus some pre-defined value (agreed between the lender and the borrower) that could be a percentage of the amount lent (interest rate), over an agreed period of time.
+<html><body style="text-align:justify"> Before explaining in more detail how negative interest rates work, one must understand what an interest rate is. In economic terms, interest is what a borrower pays to a lender for the use of an <b id="a1">[asset](#f1)</b>  on top of the value of the same asset. In the case of borrowing money (example of asset), the borrower would have an obligation to pay back the amount he asked for, plus some pre-defined value (agreed between the lender and the borrower) that could be a percentage of the amount lent (interest rate), over an agreed period of time.</body></html>
 
-It is also important to distinguish nominal interest rates from real interest rates. The main difference between them is that the real interest rate takes into account <b id="a2">[inflation](#f2)</b> - which means that with the same amount of money the lender would be able to buy fewer goods than before, at the lending date. In other words, the real interest rate is what we, consumers, really experience in our daily life.
+It is also important to distinguish nominal interest rates from real interest rates. The main difference between them is that the real interest rate takes into account <b id="a2">[inflation](#f2)</b> - which means that with the same amount of money the lender would be able to buy fewer goods now than before. In other words, the real interest rate is what we, consumers, really experience in our daily life.
 
 For example, if you borrow 100€ one year ago at a nominal interest rate of 10% per year, you will pay back to the lender 110€ which is the sum of the amount you asked (100€) and the interest paid on it (100x10%=10€).
 
@@ -34,7 +34,11 @@ However, if you borrowed 100€ one year ago at a nominal interest rate of 10% p
 
 Now, picture that same upside-down World, where instead of paying interest you are actually receiving its value! Assuming  a nominal negative interest rate of (-10%), and no inflation, instead of paying back 110€ you would only pay back 90€. Sounds crazy right? 
 
-#### <b id="b2"> How would this happen? Why would this happen? What consequences there would be? That is what we expect you to learn by reading this Canon! </b> [↩] (#i2)
+#### How would this happen? Why would this happen? What consequences there would be? That is what we expect you to learn by reading this Canon!
+
+____________________
+
+## <b id="b2"> How do interest rates work in a *simplified* financial system? </b> [↩] (#i2)
 
 Firstly, consider a *simplified* financial environment within a country (or region). It is primarly composed of three agents: a <b id="a3">[Central Bank](#f3)</b>, <b id="a4">[Commercial Banks](#f4)</b> and consumers, just like you.
 
@@ -42,13 +46,13 @@ These three agents are interconnected in such a way that a lending/borrowing rat
 
 <div style="text-align:center"><img src="https://github.com/RicardoGabriel/first-repo/blob/master/Image1.png" width="800"></div>
 
-Starting with the Central Bank, besides being the one who sets the <b id="a6">[monetary policy](#f6)</b> for the region, it also sets the policy rates or the official bank (lending) rate and deposit rate for the commercial banks (relation 1). Most Central Banks demand that commercial banks maintain a minimum level of <b id="a5">[reserves](#f5)</b> (so called required reserves) in order to meet their operating needs and as a measure of safety for unexpected events such as huge cash withdrawals by customers. Commercial Banks hold a portion of their reserves at the central bank, who pays interest on those required reserves and/or on excess reserves, those above the required minimum, at the *official deposit rate*. In this scenario, a negative deposit rate means that banks are charged for saving their excess reserves.
+Starting with the Central Bank, besides setting <b id="a6">[monetary policy](#f6)</b> for a region, it also sets the policy rates (the official bank (lending) rate and deposit rate) for the commercial banks (relation 1). Most Central Banks demand that commercial banks maintain a minimum level of <b id="a5">[reserves](#f5)</b> (so called required reserves) in order to meet their operating needs and as a measure of safety for unexpected events such as huge cash withdrawals by Consumers. Central Banks pay interest on excess reserves, those above the required minimum, at the *official deposit rate*. In this scenario, a negative deposit rate means that banks are charged for saving their excess reserves.
 
-However there may be some Commercial Banks that need help meeting their reserve requirement and, as a last resort, they may borrow from the central bank at the *official lending rate*. Here, a negative lending rate implies that borrowing is now cheaper for the commercial banks.
+However there may be some Commercial Banks that need help meeting their reserve requirement and, as a last resort, they may borrow from the Central Bank at the *official lending rate*. Here, a negative lending rate implies that borrowing is now cheaper for Commercial Banks.
 
-To meet reserve requirements, Commercial Banks can also borrow from one another at the so-called interbank market overnight rate (relation 2). This rate is closely determined by the policy rates set by the Central Bank, where its deposit rate acts as a floor (as Commercial Banks aim to earn, by lending to other banks, at least as much as they would have by saving the same amount at the Central Bank) and its lending rate acts as a ceiling (as banks would not want to pay more to borrow from other Commercial Banks than what they would pay the Central Bank). In this context, a negative interbank rate implies that although banks can borrow more cheaply from each other, they also have to pay interest on the excess liquidity they loan out to other banks, keeping the net profit zero.
+To meet reserve requirements, Commercial Banks can also borrow from one another at the so-called interbank market (overnight) rate (relation 2). This rate is closely determined by the policy rates set by the Central Bank, where its deposit rate acts as a floor (when lending to other banks, Commercial Banks will charge at least as much as they would earn by saving the same amount at the Central Bank) and its lending rate acts as a ceiling (as Banks would not want to pay more to borrow from other Banks than what they would pay the Central Bank). In this context, a negative interbank rate implies that although banks can borrow more cheaply from each other, they also have to pay interest on the excess liquidity they loan out to other banks, keeping the net profit zero.
 
-Finally, this interbank rate or the borrowing cost for Commercial Banks, in turn determines the borrowing rates for Consumers (relation 3). A negative borrowing rate may sound really attractive as you are paid to borrow, but the net effect on consumers is uncertain if banks decide to compensate it by charging a deposit fee for the negative interest rates they face. [#] (http://www.goldmansachs.com/our-thinking/pages/macroeconomic-insights-folder/negative-interest-rates-101/img-01-slide.png)
+Finally, this interbank rate (or the borrowing cost for Commercial Banks) determines the borrowing rates for Consumers (relation 3). A negative borrowing rate may sound really attractive as you are *paid to borrow*, but the net effect on consumers is uncertain if banks decide to compensate it by charging a deposit fee for the negative interest rates they face. [#] (http://www.goldmansachs.com/our-thinking/pages/macroeconomic-insights-folder/negative-interest-rates-101/img-01-slide.png)
 
 To sum up, the three entities presented above are interconnected in such a way that a rate set by the Central Banks influences the other two. Look at an example graph below:
 
@@ -133,9 +137,11 @@ For other financial lenders, when there are negative interest rates, they get le
 
 Since Japanese asset bubble collapse in the early 1990s, **Japan** has been in an economic recession. It took 12 years for Japan's GDP to recover to the same level as 1995. This is commonly known as the [lost decade] (http://www.economist.com/blogs/freeexchange/2012/08/lost-decades) of Japan. Even in the current year of 2016, the country still experiences weak economic growth, stagnated price level and real wages.
 
-Bank of Japan (BOJ) first tried to stimulate country’s economy with a zero interest rate and quantitative easing programs, to inject huge amounts of money in the financial system. However, the result seemed to work only for a short period of time. For this reason, in early 2016, the BOJ decided to adopt a negative interest rate policy, with the expectation to achieve a 2% inflation rate. The BOJ has not only cut interest rate on some deposits that banks place at the central bank to minus 0.1%, as it still maintains the quantitative easing program. In addition, Japan government also asked for Japanese corporates to raise full-time and part-time employees’ salary to increase household spending.[#] (http://www.japantimes.co.jp/news/2016/06/06/national/stimulus-efforts-struggle-abe-pushes-equal-pay-lift-japans-economy/#.WAnzEvmrhBc)
+Bank of Japan (BOJ) first tried to stimulate country’s economy with a zero interest rate and quantitative easing programs. However, the result seemed to work only for a short period of time. For this reason, in early 2016, the BOJ decided to adopt a negative interest rate policy, with the expectation to achieve a 2% inflation rate. The BOJ has not only cut interest rate on excess reserve deposits to minus 0.1%, as it still maintains the quantitative easing program. In addition, Japan government also asked for Japanese corporates to raise full-time and part-time employees’ salary to increase household spending.[#] (http://www.japantimes.co.jp/news/2016/06/06/national/stimulus-efforts-struggle-abe-pushes-equal-pay-lift-japans-economy/#.WAnzEvmrhBc)
 
-Some critics say that this policy might not be able to boost Japan’s economy due to the long term deflation and that the BOJ may be running out of monetary policy tools. [#] (http://www.bloomberg.com/news/articles/2016-04-06/japan-is-fast-approaching-the-quantitative-limits-of-quantitative-easing) However, until now, there is no clear proof or evidence about the consequences of negative rates policy. The BOJ has said that there is no boundary and rates can be cut further as needed. Change in policy to welcome more immigration to boost workforce has been discussed for possibility as well. [#] (http://www.japantimes.co.jp/news/2016/01/06/national/social-issues/government-weighs-immigration-maintain-population-boost-workforce/#.WAn1y_mrhBc)
+Some critics say that this set of policies might not be able to boost Japan’s economy due to the long term deflation and that the BOJ may be running out of monetary policy tools. However, until now, there is no clear proof or evidence about the consequences of the use of negative interest rates. [#] (http://www.bloomberg.com/news/articles/2016-04-06/japan-is-fast-approaching-the-quantitative-limits-of-quantitative-easing)
+
+Recently, the BOJ said that there is no boundary and rates can be cut further as needed and additional measures, such as support more immigration in order to boost Japanese workforce, had been discussed as well. [#] (http://www.japantimes.co.jp/news/2016/01/06/national/social-issues/government-weighs-immigration-maintain-population-boost-workforce/#.WAn1y_mrhBc)
 
 
 The **Eurozone** sovereign debt crisis began at the end of 2009, when eurozone member states of Greece, Spain, Ireland, Portugal and Cyprus were unable to repay or refinance their government debt. As a result some countries did not fully recovered and the European Union (EU) is still facing a period of low inflation and low GDP growth. [#] (http://www.investopedia.com/terms/e/european-sovereign-debt-crisis.asp)
@@ -145,10 +151,7 @@ With the single monetary policy from the European Central Bank (ECB) eurozone me
 Representatives from the European Central Bank tell us that most of the consequences felt so far, point towards a successful achievement of economic growth. For instance, the net income of euro area significant banking groups actually increased between 2014 and 2015. [#] (https://www.ecb.europa.eu/press/key/date/2016/html/sp160728.en.html)
 
 
-The reason behind the ECB’s decision is quite similar as BOJ's decision. Both regions are mature economies with fewer investment opportunities and a similar demographic problem (working age population is diminishing). Therefore, they want to boost inflation and spending with negative rates policy.[#] (http://business.financialpost.com/news/economy/japan-in-transition-rest-of-world-watches-as-country-tries-negative-interest-rates-to-spur-economy)
-
-However, it is difficult to say how long these low interest rates will continue and what the real consequences for the economies would be. [#] (add website)
-
+Adding to the recent financial crisis, the reasons behind the ECB’s decision are quite similar to BOJ's ones. Both regions are mature economies with fewer investment opportunities and a similar demographic problem (working age population is diminishing).[#] (http://business.financialpost.com/news/economy/japan-in-transition-rest-of-world-watches-as-country-tries-negative-interest-rates-to-spur-economy) Moreover, in both cases it is difficult to say how long these low interest rates will continue and what the real consequences for the economies would be. [#] (http://www.cnbc.com/2016/09/06/negative-rates-will-stay-for-another-five-years-jpmorgan-warns.html)
 
 ## <b id="b9">Are there any alternatives?</b> [↩] (#i9)
 
