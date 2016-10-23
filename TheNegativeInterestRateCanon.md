@@ -4,7 +4,7 @@
 
 <b id="i2">[How do interest rates work in a *simplified* financial system?](#b2)</b>
 
-<b id="i3">[What are the desired consequences for a policymaker who sets interest rates negative?](#b3)</b>
+<b id="i3">[Why would a Central Banks set interest rates negative?](#b3)</b>
 
 <b id="i4">[What are the consequences of the use of negative interest rates?](#b4)</b> 
 
@@ -46,11 +46,7 @@ These three agents are interconnected in such a way that a lending/borrowing rat
 
 <div style="text-align:center"><img src="https://github.com/RicardoGabriel/first-repo/blob/master/Image1.png" width="800"></div>
 
-[image] (/images/Image1.png)
-
-![](/images/Image1.png)
-
- ![Image](/images/Image1.png?raw=true)
+[![Image1.png](https://s11.postimg.org/h15utnfpf/Image1.png)](https://postimg.org/image/rb89sw5kv/)
 
 Starting with the Central Bank, besides setting <b id="a6">[monetary policy](#f6)</b> for a region, it also sets the policy rates (the official bank (lending) rate and deposit rate) for the commercial banks (relation 1). Most Central Banks demand that commercial banks maintain a minimum level of <b id="a5">[reserves](#f5)</b> (so called required reserves) in order to meet their operating needs and as a measure of safety for unexpected events such as huge cash withdrawals by Consumers. Central Banks pay interest on excess reserves, those above the required minimum, at the *official deposit rate*. In this scenario, a negative deposit rate means that banks are charged for saving their excess reserves.
 
@@ -64,44 +60,25 @@ To sum up, the three entities presented above are interconnected in such a way t
 
 <div style="text-align:center"><img src="https://github.com/RicardoGabriel/first-repo/blob/master/Image2.png" width="800"></div>
 
+[![Image2.png](https://s15.postimg.org/xg546jtcb/Image2.png)](https://postimg.org/image/kbzjtv1af/)
+
 For instance, if the rate on the deposits at the central bank increases, then banks will lend to one another at a higher rate, making its costs of borrowing higher, and therefore the rate at which consumers borrow may also increase. However, a higher interbank borrowing rate does not necessarily imply an equally higher consumer borrowing rate as shown in the graph above, as it is determined by other factors such as the bank’s operating costs, credit risk, regulatory requirements etc. 
 
-## <b id="b3">What are the desired consequences for a policymaker who sets interest rates negative?</b> [↩] (#i3)
+## <b id="b3"> Why would Central Banks set interest rates negative?</b> [↩] (#i3)
 
-Commercial Banks create money by matching loans and households deposits. A bank first decides how much money to lend depending on the profitable opportunities, and then matches the loans with the deposits in the borrower’s bank account. The profitability of opportunities mainly depends on the interest rate set by the Central Banks. By matching loans and deposit the amount of money that is available in the economy multiplies. For example, when someone takes out a mortgage to buy a house, the bank makes a loan. In this case the bank’s asset account becomes smaller, while it increases the money available for consumers in the economy by the same amount. 
+Negative interest rates have been used when conventional monetary policy ceases to work properly. For instance, this could happen in periods of deep deflation (price levels fall), when consumer spending and investment tend to be lower, slowing down the <b id="a9">[aggregate demand](#f9)</b> and production and increasing unemployment. To deal with such problems, Central Banks usually use  <b id="a10">[expansionary monetary policies](#f10)</b>. However, it might be the case that simply keeping central bank’s interest rate at the zero lower bound  or using <b id="a7">[quantitative easing](#f7)</b> is not enough to boost the economy.
 
-Lower interest rates are used as instruments to encourage business and individuals to borrow and spend. More spending leads to more demand for goods and services and means higher employment to meet that demand. In theory, this works just fine for positive interest rates, but does this work for negative interest rates as well?
+Therefore, from a theoretical point of view, when an economy is stagnated, negative interest rates main goal is to encourage consumer spending and investment, through reduced borrowing costs for companies and households, increasing the number of loans made.
 
-Going back to the case of the 10% negative interest rate, you borrow and spend €100 today, and repay €90 next year. This may sound attractive to create more demand for products and services. However, there is a problem with it: nobody would lend on those terms. It would be better to keep your money in cash because, otherwise, the return would be zero. In this way, the negative interest rate works as a tax on holding money.
-
-So, negative interest rates may be used in periods of deflation (when price levels fall), where consumer spending and investment tend to be lower, slowing down the <b id="a9">[aggregate demand](#f9)</b> and production and increasing unemployment. To deal with such problems, Central Banks usually use  <b id="a10">[expansionary monetary policies](#f10)</b>. A Central Bank influences the interest rates through . Examples of two common policies are lowering the interest rates *per se* and using <b id="a7">[quantitative easing](#f7)</b>. 
-
-In periods of financial stress, the Central Banks lower the overnight rate (interest rates on excess reserves that banks keep at central banks), so they would be able to reduce the funding cost for Commercial Banks and encourage them to loan more money, thus stimulate the economy and prevent the country from slipping into a <b id="a8">[recession](#f8)</b>.
-
-On the other hand, the interest rates can also be influenced through quantitative easing - Central Banks create money by buying assets, for example government bonds, from Commercial Banks. They pay for these assets by *printing* cash. The size of Bank reserves expands due to the purchase of a quantity of assets: quantitative easing. By creating and pushing more money into the economy, the stock prices will rise and will decrease the interest rates. ????????
-
-However, it might be the case that the deflation felt is so strong that simply keeping central bank’s interest rate at the zero lower bound is not enough to boost the economy.
-
-Remember again that, from a theoretical point of view, when an economy is stagnated, negative interest rates main goal is to encourage consumer spending and investment, through reduced borrowing costs for companies and households, increasing the number of loans made.
-
-First, it is important to clarify why lending becomes cheaper and how central banks incentivize Commercial Banks to lend more. Remember that Commercial Banks keep reserves at central banks and are supposed to receive interest on those reserves. When these deposit interest rates go negative, banks prefer to earn some interest income on loans instead of paying interest on excess reserves at Central Banks. Moreover, banks try to get rid of these excess mandatory reserves by lending to each other and extending loans.
+First, it is important to clarify why lending becomes cheaper and how central banks incentivize Commercial Banks to lend more. Remember that Commercial Banks keep reserves at central banks and they expect to receive interest on the excess reserves. When these deposit interest rates go negative, banks prefer to earn some interest income on loans instead of paying interest on excess reserves at Central Banks. On the other hand, this also probably leads to lower funding cost for commercial banks, encouraging banks to borrow more from one another. 
 
 Secondly, these lower interest rates actually aim to incentivize consumer spending. Under such circumstances, any household would prefer spending money on desired goods and services rather than paying to keep savings in the bank. This would contribute to higher aggregate demand and production and improve economic growth.
 
-Finally, such situation would incentivize investment due to the low cost of funding. Therefore, companies could easily invest in new facilities or R&D.
+Finally, such situation would incentivize investment due to the low cost of funding, since the interest rates charged by the commercial banks to the general public could also decrease. Therefore, companies could easily invest in new facilities or R&D for instance and entrepreneurs could start new businesses.
 
-Another relevant consequence of negative interest rates is the weaker currency. For instance, knowing that investors seek high-interest rates to get the highest possible return on their investments and if national interest rates are negative, one may conclude that investors will try to exchange (trade?) national currency for foreign currency to invest in some foreign activity. On the one hand, if many investors try to get rid of a national currency, then naturally its value will decrease, leading to lower purchasing power. On the other hand, the purchasing power of the foreign currency will increase, meaning that national exports would become cheaper when expressed in this foreign currency, while foreign imports would become more expensive in terms of national currency. This would **boost national exports** and **increase inflation** – since national households would pay more for the same imported goods after all this process.
+Another relevant consequence of negative interest rates is that the currency becomes weaker. For instance, knowing that investors seek high-interest rates to get the highest possible return on their investments and if national interest rates are negative, one may conclude that investors will try to exchange national currency for foreign currency (to invest in some foreign activity that yields higher return). On the one hand, if many investors try to get rid of a national currency, then naturally its value will decrease, leading to lower purchasing power - foreign imports would become more expensive in terms of national currency. On the other hand, the purchasing power of the foreign currency will increase, meaning that national exports would become cheaper when expressed in this foreign currency. All of this together would **boost national exports** – national products became cheaper foreigners and its demand would therefore increase – and **increase inflation** – since national households would pay more for the same imported goods after all.
 
-Hence, when setting negative interest rates, central banks aim to improve economic growth, increase inflation and decrease unemployment, through implicit lower borrowing costs for banks and consumers and a weaker currency.
-
-Central banks are using this ‘negative interest rate’ policy as an attempt to stimulate the economy when conventional monetary policy ceases to work due to low interest rates and the economy being in a liquidity trap. Since the global financial crisis, the central are using low-interest rate policies to accommodate low investments, low output, and low inflation. The European Central Bank has placed the deposit rate below zero and the main refinancing rate at zero, the rates between the central bank and the banks,  in response to the persistent recession. There is a limitation to negative interest rate policies as discussed before. People would rather hold cash at zero interest rate or look for other assets with positive returns.
-
-The Central Banks need to be mindful of the risks involved for consumers, banks and other financial intermediaries and how these risks and their subsequent behavior can affect the stability of the financial market. The Central Bank also needs to keep in mind that these players don’t always act rationally when they are conducting monetary policy and be aware of other potential channels in which monetary policy can affect the macroeconomy through these players.
-
-https://www.ecb.europa.eu/press/key/date/2016/html/sp160728.en.html
-http://www.bis.org/publ/work268.htm
-
-____________________________________________________________
+Hence, when setting negative interest rates, central banks aim to improve economic growth, increase inflation, demand and output and decrease unemployment, through implicit lower borrowing costs for banks and consumers.
 
 ## <b id="b4">What are the consequences of the use of negative interest rates for: </b> [↩] (#i4)
 
