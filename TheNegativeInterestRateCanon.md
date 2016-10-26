@@ -58,15 +58,10 @@ Finally, this interbank rate (or the borrowing cost for Commercial Banks) determ
 
 To sum up, the three entities presented above are interconnected in such a way that a rate set by the Central Banks influences the other two. Look at the following graph, where we plotted real data on these 4 types of rates
 
-[![Image2.png](http://s22.postimg.org/kxnos6qup/Image2.png)](http://postimg.org/image/6r7xwyfzh/)
+[![Image2.png](http://s11.postimg.org/chpj79dxf/Image2.png)](http://postimg.org/image/ivemaiitb/)
 
 For instance, if the rate on the deposits at the central bank increases, then banks will lend to one another at a higher rate, making its costs of borrowing higher, and therefore the rate at which consumers borrow may also increase. However, a higher interbank borrowing rate does not necessarily imply an equally higher consumer borrowing rate as shown in the graph above, as it is determined by other factors such as the bank’s operating costs, credit risk, regulatory requirements etc. 
 
-
-Take the example of how the Federal Reserve in the United States sets Interest Rates in 2016:
-
-
-[![Video](https://img.youtube.com/vi/Oz5hNemSdWc/0.jpg)](https://www.youtube.com/watch?v=Oz5hNemSdWc)
 
 ## <b id="b3"> Why would Central Banks set interest rates negative?</b> [↩] (#i3)
 
@@ -108,7 +103,7 @@ Since under negative interest rate policy Banks accept riskier loans, they may d
 It follows that there are certain limitations to negative interest rates. While it is used as a tool to encourage consumption and investment, it would cause problems for people who store money in banks, especially those who save for retirement. If all of a sudden, the retirement savings account stops paying interest and the effect reverses, savers will end up receiving less money that they expect to receive after retirement. [#] (http://www.elliottwealth.com/HOT-TOPIC-The-World-Experiments-with-Negative-Interest-Rates.c7244.htm)
 
 
-We have said earlier that theoretically the consumers have less incentive to save but this is not what data tell us. Recent economic data shows that in countries like Germany, Japan, Switzerland, Denmark and Sweden, countries experiencing the negative nominal interest rate policy, consumers are saving more. In Fact in Sweden, Switzerland and Denmark the savings are at their highest since 1995. This is mainly due to two reasons. Firstly, as explained earlier, due to the decrease in return that the consumer earn on their savings, agents will have to save more in order to meet their retirement savings objectives. Secondly, people borrow and spend more only when they are certain about the future, and implementing negative interest rate is like going into uncharted territory. Therefore resulting in a loss of consumer confidence, that will lead to consumers saving more instead of spending.  [#] (http://www.wsj.com/articles/are-negative-rates-backfiring-heres-some-early-evidence-1470677642
+We have said earlier that theoretically the consumers have less incentive to save but this is not what data tell us. Recent economic data shows that in countries like Germany, Japan, Switzerland, Denmark and Sweden, countries experiencing the negative nominal interest rate policy, consumers are saving more. In Fact in Sweden, Switzerland and Denmark the savings are at their highest since 1995. This is mainly due to two reasons. Firstly, as explained earlier, due to the decrease in return that the consumer earn on their savings, agents will have to save more in order to meet their retirement savings objectives. Secondly, people borrow and spend more only when they are certain about the future, and implementing negative interest rate is like going into uncharted territory. Therefore resulting in a loss of consumer confidence, that will lead to consumers saving more instead of spending.  [#] (http://www.wsj.com/articles/are-negative-rates-backfiring-heres-some-early-evidence-1470677642)
 
 
 Negative interest rates brings more currency into circulation due to more loans. Higher volume of circulated currency leads to higher prices of goods and commodities, moreover low rates have driven housing prices up. [#] (http://www.elliottwealth.com/HOT-TOPIC-The-World-Experiments-with-Negative-Interest-Rates.c7244.htm) This might be suboptimal for the consumers specially for low-income group. 
@@ -165,8 +160,7 @@ Fiscal policy is a tool used by Governments to target the value and composition 
 Some economists claim that, instead of relying so much on monetary policy boost the economic growth, governments should use fiscal policy to overcome stagnation. However, one must also consider all its limitations.
 
 First, although several economists such as John Keynes argued that budget deficits may be useful to overcome periods of recession, in reality fiscal policy is somehow limited when a
-<b id="a17">[budget deficit](#f17)</b> is already considerably high. We can think for example about <b id="a19">[Stability and Growth Pact](#f19)</b> in European Union, which defines as an excessive budget deficit as one greater than 3 % of GDP. Countries that fail to respect the its preventive or corrective rules may ultimately face sanctions. [http://www.econlib.org/library/Enc/KeynesianEconomics.html]
-[http://ec.europa.eu/economy_finance/economic_governance/sgp/index_en.htm] 
+<b id="a17">[budget deficit](#f17)</b> is already considerably high. We can think for example about <b id="a19">[Stability and Growth Pact](#f19)</b> in European Union, which defines as an excessive budget deficit as one greater than 3 % of GDP. Countries that fail to respect the its preventive or corrective rules may ultimately face sanctions. [#1] (http://www.econlib.org/library/Enc/KeynesianEconomics.html) [#2] (http://ec.europa.eu/economy_finance/economic_governance/sgp/index_en.htm) 
 
 Second, if in this case Governments choose to use an expansionary fiscal policy anyway (increase government spending and/or decrease taxes), it will run into an even higher budget deficit. This might mean that, in the future, the government will raise taxes and decrease spending to pay this debt. Moreover, households may be aware of this situation and, instead of spending the money they accumulated from the previous decrease in taxes, they will save it to face its future increase.
 
