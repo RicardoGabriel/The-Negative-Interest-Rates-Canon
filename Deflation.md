@@ -1,3 +1,5 @@
 #Deflation
 
-[![Video](https://img.youtube.com/vi/GHHesANT6OM/0.jpg)](https://www.youtube.com/watch?v=GHHesANT6OM)
+[![Inflation](https://img.youtube.com/vi/WKZvm_fqYRM/0.jpg)](https://www.youtube.com/watch?v=WKZvm_fqYRM)
+
+[![Bankruptcy](https://img.youtube.com/vi/uiyd--h8vyk/0.jpg)](https://www.youtube.com/watch?v=uiyd--h8vyk)
