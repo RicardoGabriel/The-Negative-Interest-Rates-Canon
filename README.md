@@ -1,6 +1,5 @@
 # The-Negative-Interest-Rates-Canon
-The topic of our work is negative interest rates. Our goal is to explain what are negative interest rate, how do they work in practice and which are the main desired consequences. Furthermore, we aim to highlight the risks and limitations of such policy and present the reader with a brief example/case-study so he/she can connect to the issue that is being addressed. To conclude, we would also like to point some alternatives to negative interest rates.
+
+Try to picture an upside-down World, where you get paid when you borrow money. Although in the past consumers have never experienced negative nominal interest rates, one never knows what might happen in the future. In recent past, many Central Banks have been setting nominal interest rates negative as a policy to overcome periods of recession and to stimulate economic growth. We aim to explain clearly how these negative rates work in practice and which possible consequences they would have. We will also go into some detail on what has been happening in Japan and in the Eurozone. Finally, we present a brief discussion on alternatives to this policy.
 
 * [The Negative Interest Rates Canon] (https://github.com/RicardoGabriel/TheNegativeInterestRatesCanon.github.io/blob/master/TheNegativeInterestRateCanon.md)
-
-* [Deflation] (https://github.com/RicardoGabriel/TheNegativeInterestRatesCanon.github.io/blob/master/Deflation.md)
