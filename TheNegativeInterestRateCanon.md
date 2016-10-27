@@ -110,8 +110,7 @@ Since under this policy Banks accept riskier loans, they may decide to compensat
 Although from a theoretical point of view consumers have less incentive to save, data show us the opposite has been happening. Recent economic data shows that in countries like Germany, Japan, Switzerland, Denmark and Sweden, countries experiencing the negative nominal interest rate policy, consumers are saving more. In fact in Sweden, Switzerland and Denmark the savings are at their highest since 1995. This is mainly due to two reasons. Firstly, if individuals’ retirement savings account stops paying interest or, in an extreme case, the effect reverses, savers will end up receiving less money that they expecting after retirement. To compensate this decrease, agents will probably have to save more in order to meet their retirement savings objectives and reduce consumption and investment. Secondly, people borrow and spend more only when they are certain about the future and implementing negative interest rate is like going into uncharted territory. Therefore resulting in a loss of consumer confidence, that will once again lead to consumers saving more instead of spending.  [#] (http://www.wsj.com/articles/are-negative-rates-backfiring-heres-some-early-evidence-1470677642) 
 
 
-Negative interest rates may cause lots of problems to people who store money in Banks, especially to those who save for retirement. So, one might ask then why people should keep storing their money at the Bank knowing that in some periods time they will have a lower return than they expected. The reason is that, despite the losses, investing the money provides a safer alternative to consumers when compared to stashing away the cash in a mattress. As long as rates do not go too low, individuals will probably prefer depositing cash safely in a Bank, since keeping it outside a Bank can also be quite expensive (for example security measures).
-(http://www.elliottwealth.com/HOT-TOPIC-The-World-Experiments-with-Negative-Interest-Rates.c7244.htm)
+Negative interest rates may cause lots of problems to people who store money in Banks, especially to those who save for retirement. So, one might ask then why people should keep storing their money at the Bank knowing that in some periods time they will have a lower return than they expected. The reason is that, despite the losses, investing the money provides a safer alternative to consumers when compared to stashing away the cash in a mattress. As long as rates do not go too low, individuals will probably prefer depositing cash safely in a Bank, since keeping it outside a Bank can also be quite expensive (for example security measures). [#] (http://www.elliottwealth.com/HOT-TOPIC-The-World-Experiments-with-Negative-Interest-Rates.c7244.htm)
 
 
 Due to the lower cost of funding and increase in amount of loans, negative interest rates bring more currency into circulation, leading to higher prices of goods and commodities. deposit cash assets safely in a Bank. This situation can also drive housing prices up in and create the fear of a “bubble.” [#] (http://www.elliottwealth.com/HOT-TOPIC-The-World-Experiments-with-Negative-Interest-Rates.c7244.htm) This might be suboptimal for the consumers specially for low-income group. 
@@ -151,11 +150,9 @@ The effect of the implications of negative interest rates on banks and other fin
 
 Since Japanese asset bubble collapse in the early 1990s, **Japan** has been in an economic recession. It took 12 years for Japan's <b id="a22">[Gross Domestic Product](#f22)</b> (GDP) to recover to the same level as 1995. This is commonly known as the [lost decade] (http://www.economist.com/blogs/freeexchange/2012/08/lost-decades) of Japan. Even in the current year of 2016, the country is experiencing weak economic growth, a stagnated price level and no increase in real wages.
 
-
-[![Image3.png](http://s21.postimg.org/nuzm5q5gn/Image3.png)](http://postimg.org/image/r1u5pcpwj/)
-
 Bank of Japan (BOJ) first tried to stimulate country’s economy with a zero interest rate and quantitative easing programs in 2001 [#] (https://www.federalreserve.gov/pubs/ifdp/2011/1018/ifdp1018.pdf). However, the result seemed to work only for a short period of time and disappeared in the long run, partly due to the global economic recession starting in 2008/2009. During this period, japanese GDP growth rate reached negative levels (-0.7% in 2008 and -5,2% in 2009) and their exports have decreased as well.
 
+[![Image3.png](http://s21.postimg.org/nuzm5q5gn/Image3.png)](http://postimg.org/image/r1u5pcpwj/)
 
 In December 2012, Japanese Prime Minister Shinzo Abe took office. Some weeks after it announced plans for a new suite of policies to boost Japan's economy, which became known as **Abenomics**. This set of economic policies, were based on three main pillars: more public spending, a reinforced quantitative easing program and more structural reforms. As we see in the graph, Abenomics achieved some of the proposed goals - for instance, it increased the inflation rate to the 2%. However, it did not promote the expected long run economic growth as GDP growth rate is still lower than 1%. [#] (http://www.cfr.org/japan/abenomics-japanese-economy/p30383)
 
@@ -249,12 +246,9 @@ However, as Willem Buiter claims, coordination between the Central Bank and the 
 
 <b id="f16">**Fiscal Policy:**</b> policy by which a government adjusts its spending levels and tax rates to monitor and influence a nation's economy. [Learn More] (http://www.investopedia.com/articles/04/051904.asp) [↩](#a16)
 
-
-<b id="f2">**Inflation:**</b> refers to the rise in general price levels. Thus an individual will have to pay more for goods and services. [Learn More] (http://www.investopedia.com/terms/i/inflation.asp) [↩](#a2)
-
-
 <b id="f22">**Gross Domestic Product:**</b> Gross domestic product (GDP) is the monetary value of all the finished goods and services produced within a country's borders in a specific time period. Put simply, GDP is a broad measurement of a nation’s overall economic activity and the GDP growth rate is a good measure to tell us how well the economy is doing. [Learn More] (http://www.investopedia.com/terms/g/gdp.asp) [↩](#a22)
 
+<b id="f2">**Inflation:**</b> refers to the rise in general price levels. Thus an individual will have to pay more for goods and services. [Learn More] (http://www.investopedia.com/terms/i/inflation.asp) [↩](#a2)
 
 <b id="f11">**Liquidity:**</b> measures how quickly an asset can be bought or sold (traded) in the market . For instance, cash is the most liquid asset available because it can always be used easily and immediately. [Learn More] (http://www.investopedia.com/articles/basics/07/liquidity.asp) [↩](#a11)
 
@@ -279,14 +273,22 @@ However, as Willem Buiter claims, coordination between the Central Bank and the 
 
 
 ### <b id="b11">Authors and Contributors</b> [↩] (#i11)
-@anasofiapessoa 
+@anasofiapessoa
+
 @RicardoGabriel
+
 @nattanon127
+
 @Kaustubh-Agrawal
+
 @mundrasiddharth
+
 @pt1995
+
 @Indira23
+
 @ananyav25
+
 @LotteAleven
 
 We are really thankful to Professors Smulders and @janboone
