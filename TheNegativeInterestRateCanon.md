@@ -46,7 +46,7 @@ Firstly, consider a *simplified* financial environment within a country (or regi
 
 These three agents are highly interconnected in such a way that a lending/borrowing rate that one sets affects the others. The flowchart given below explains this relationship:
 
-[![Image1.png](http://s17.postimg.org/d344bu14f/Image1.png)](http://postimg.org/image/os83zss2z/)
+[![Image1.png](https://i.postimg.cc/QCLXQWB8/Image1.png)](https://postimg.cc/8JHQDcB9)
 
 Starting with the Central Bank, besides setting <b id="a6">[monetary policy](#f6)</b> for a region, it also sets the policy rates (the official bank (lending) rate and deposit rate) for the Commercial Banks (relation 1). Most Central Banks demand that Commercial Banks maintain a minimum level of <b id="a5">[reserves](#f5)</b> (so called required reserves) in order to meet their operating needs and as a measure of safety for unexpected events such as huge cash withdrawals by Consumers. Central Banks pay interest on excess reserves, those above the required minimum, at the *official deposit rate* (relation 1). In this scenario, a negative deposit rate means that Banks are charged for saving their excess reserves.
 
@@ -58,7 +58,7 @@ Finally, this interbank rate (or the borrowing cost for Commercial Banks) determ
 
 To sum up, the three entities presented above are interconnected in such a way that a rate set by the Central Banks influences the other two. Look at the following graph, where we plotted real data on these 4 types of rates for the Eurozone:
 
-[![Image2.png](http://s11.postimg.org/chpj79dxf/Image2.png)](http://postimg.org/image/ivemaiitb/)
+[![Image2.png](https://i.postimg.cc/VLWYtvzw/Image2.png)](https://postimg.cc/xcqDD0kp)
 
 For instance, if the rate on the deposits at the Central Bank increases, then Banks will lend to one another at a higher rate, making its costs of borrowing higher, and therefore the rate at which consumers borrow may also increase. However, a higher interbank borrowing rate does not necessarily imply an equally higher consumer borrowing rate as shown in the graph above, as it is determined by other factors such as the Bank’s operating costs, credit risk, regulatory requirements etc. 
 
@@ -152,7 +152,7 @@ Since Japanese asset bubble collapse in the early 1990s, **Japan** has been in a
 
 Bank of Japan (BOJ) first tried to stimulate country’s economy with a zero interest rate and quantitative easing programs in 2001 [#] (https://www.federalreserve.gov/pubs/ifdp/2011/1018/ifdp1018.pdf). However, the result seemed to work only for a short period of time and disappeared in the long run, partly due to the global economic recession starting in 2008/2009. During this period, japanese GDP growth rate reached negative levels (-0.7% in 2008 and -5,2% in 2009) and their exports have decreased as well.
 
-[![Image3.png](http://s21.postimg.org/nuzm5q5gn/Image3.png)](http://postimg.org/image/r1u5pcpwj/)
+
 
 In December 2012, Japanese Prime Minister Shinzo Abe took office. Some weeks after it announced plans for a new suite of policies to boost Japan's economy, which became known as **Abenomics**. This set of economic policies, were based on three main pillars: more public spending, a reinforced quantitative easing program and more structural reforms. As we see in the graph, Abenomics achieved some of the proposed goals - for instance, it increased the inflation rate to the 2%. However, it did not promote the expected long run economic growth as GDP growth rate is still lower than 1%. [#] (http://www.cfr.org/japan/abenomics-japanese-economy/p30383)
 
@@ -172,7 +172,7 @@ ______________
 The **Eurozone** sovereign debt crisis began around 2008, when eurozone member states Greece, Spain, Ireland, Portugal and Cyprus were unable to repay or refinance their government debt. Nearly five years after the onset of the global credit crisis, the European Central Bank (ECB)’s key policy rates have been reduced close to their zero floors but the Eurozone’s economy was still producing well below its productive capacity - it was in a liquidity trap. [#] (https://www.societegenerale.com/sites/default/files/documents/Econote/EcoNote_22_Zone_euro_EN.pdf)
 
 
-[![Image4.png](http://s9.postimg.org/nm2gi2m2n/Image4.png)](http://postimg.org/image/56hzko7y3/)
+
 
 With the single monetary policy from the ECB, Eurozone member states' governments could not independently make decisions regarding monetary policy to economically recover from the global financial crisis. Trying to achieve the target of 2% inflation and to spur economic growth, ECB cut policy rates (both deposit and lending rates) in several steps during 2012–2013. However, as the Eurozone’s growth had been weaker than expected, in June 2014 the ECB became the world’s first major Central Bank to launch negative interest rates, cutting its depositary interest rate to minus 0.1%. According to Mr Mario Draghi economic recovery at the beginning of 2016 had been slower than expected due to problems in emerging markets, financial volatility and slow implementation of economic reforms in the eurozone, leading to a further decrease of nominal interest rates to minus 0.4% in March 2016. [#] (https://www.imf.org/external/pubs/ft/wp/2016/wp16172.pdf)
 [#] (https://www.ft.com/content/9a45a960-e6ac-11e5-a09b-1f8b0d268c39)
